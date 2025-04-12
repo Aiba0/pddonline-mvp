@@ -5,6 +5,7 @@ import HomePage from "./pages/HomePage.jsx";
 import CourseList from "./pages/CourseList.jsx";
 import CourseDetail from "./pages/CourseDetail.jsx";
 import Exam from "./pages/Exam.jsx";
+import ExamSession from "./pages/ExamSession.jsx";
 
 function App() {
     return (
@@ -15,6 +16,7 @@ function App() {
                     <Route path="/chat" element={<ChatPage />} />
                     <Route path="/exam" element={<Exam />} />
                     <Route path="/courses" element={<CourseList />} />
+                    <Route path="/exam-session" element={<ExamSession />} />
                     <Route path="/courses/:id" element={<CourseDetail />} />
                     {/* Добавляй другие страницы сюда */}
                 </Route>

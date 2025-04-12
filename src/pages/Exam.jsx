@@ -14,10 +14,10 @@ export default function Exam() {
                 <div>
                     <h2 className="text-lg font-semibold text-gray-800 mb-1">Узнайте свой уровень!</h2>
                     <p className="text-sm text-gray-600 mb-4">Пройдите пробное онлайн тестирование на знание ПДД!</p>
-                    <button
+                    <Link to='/exam-session'
                         className="bg-[#007AFF] hover:bg-blue-700 text-white text-sm font-medium px-6 py-3 rounded mt-6 transition">
                         Начать тестирование
-                    </button>
+                    </Link>
                 </div>
                 <ProgressRing />
             </div>

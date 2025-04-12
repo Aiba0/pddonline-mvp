@@ -1,0 +1,1930 @@
+{
+  "questions": [
+    {
+      "id": 649,
+      "question": {
+        "ru": "\"Велосипед\" - это:",
+        "kz": "\"Велосипед\" - бұл:",
+        "en": "The bike is:"
+      },
+      "explanation": {
+        "ru": "Велосипед – транспортное средство, имеющее два колеса или более (кроме кресел-колясок для лиц с инвалидностью) и приводимое в движение мускульной силой людей, находящихся на нем. (Раздел 1, пункт 2.12 ПДД РК.)",
+        "kz": "Велосипед-екі немесе одан да көп дөңгелегі бар (мүгедектерге арналған кресло-арбалардан басқа) және ондағы адамдардың бұлшықет күшімен қозғалысқа келтірілетін көлік құралы. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.12-тармағы.)",
+        "en": "A bicycle is a vehicle having two or more wheels (except wheelchairs for persons with disabilities) and driven by the muscular strength of the people on it. (Section 1, paragraph 2.12 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20220806_0914_kwttb5slc2_video",
+        "size": 797
+      },
+      "explanation_file": {
+        "id": "20220806_0914_at0ih6593c_video",
+        "size": 823
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Транспортное средство, имеющее два колеса или более (кроме кресел-колясок для лиц с инвалидностью) и приводимое в движение мускульной силой людей, находящихся на нем.",
+            "kz": "Екі немесе одан да көп дөңгелегі бар (мүгедектігі бар адамдарға арналған кресло-арбалардан басқа) және оның үстіндегі адамның бұлшықет күшімен қозғалысқа келетін\nкөлік құралы.",
+            "en": "A vehicle that has two or more wheels and is driven by the muscular force of a person on it."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Двухколесное механическое транспортное средство.",
+            "kz": "Екі дөңгелекті механикалық  көлік.",
+            "en": "Two-wheeled mechanical vehicle."
+          }
+        },
+        {
+          "id": 5,
+          "is_correct": false,
+          "title": {
+            "ru": "Колёсное транспортное средство, приводимое в движение мускульной силой человека через ножные педали или двигатель.",
+            "kz": "Аяқ педальдары немесе қозғалтқыш арқылы адамның бұлшықет күшімен қозғалысқа\nкелетін дөңгелекті көлік құралы.",
+            "en": "A wheeled vehicle is driven by the muscular force of a person through foot pedals or an engine."
+          }
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "question": {
+        "ru": "«Автомагистраль» - это:",
+        "kz": "«Автомагистраль»  - бұл:",
+        "en": "\"Highway\" is:"
+      },
+      "explanation": {
+        "ru": "Автомагистраль – это дорога, специально построенная или реконструированная в соответствии с проектом для движения транспортных средств, которая не обслуживает придорожные владения. Доступ на нее возможен только с других дорог через развязки в разных уровнях. Эта дорога: имеет раздельные проезжие части для движения в разных направлениях, отделенные друг от друга разделительной полосой, не предназначенной для движения; не имеет пересечений на одном уровне с другими дорогами, железнодорожными и трамвайными путями и пешеходными дорожками. (Раздел 1, пункт 2.1 ПДД РК.)",
+        "kz": "Автомагистраль — көлік құралдарының жүруі үшін жобаға сәйкес арнайы салынған немесе реконструкцияланған, жол бойындағы иеліктерге қызмет көрсетпейтін жол. Оған тек басқа жолдардан ғана әртүрлі деңгейлердегі жол айрықтары арқылы өтуге болады. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.1-тармағы.)",
+        "en": "A motorway is a road specially constructed or reconstructed according to a project for the movement of vehicles that does not serve roadside properties. Access to it is possible only from other roads through interchanges at different levels. This road: has separate carriageways for traffic in different directions, separated from each other by a dividing strip not intended for traffic; has no intersections at the same level with other roads, railway and tram tracks and pedestrian paths. (Section 1, paragraph 2.1 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20220806_0553_x3aywv0nvo_video",
+        "size": 298
+      },
+      "explanation_file": {
+        "id": "20220806_0553_la0cy0inkq_video",
+        "size": 230
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Поверхность искусственного сооружения, обустроенная и используемая для движения \nтранспортных средств и пешеходов. ",
+            "kz": "Көлік құралдары мен жаяу жүргіншілердің қозғалуына жайғасытырлған және пайдаланылатын жасанды құрылыстың беті.  ",
+            "en": "The surface of artificial structures used and used for the movement of vehicles and pedestrians.   "
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": " Дорога, специально построенная или реконструированная в соответствии с проектом для\nдвижения транспортных средств, которая не обслуживает придорожные владения. Доступ на нее возможен только с других дорог через развязки в разных уровнях.",
+            "kz": "Көлік құралдарының жүруі үшін жобаға сәйкес арнайы салынған немесе реконструкцияланған, жол бойындағы иеліктерге қызмет көрсетпейтін жол. Оған тек басқа жолдардан ғана әртүрлі деңгейлердегі жол айрықтары арқылы өтуге болады.",
+            "en": "A road specially built for the movement of vehicles that does not serve the property near the road."
+          }
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "question": {
+        "ru": "Что означает термин «Ограниченная видимость»?",
+        "kz": "«Шектеулі көріну» термині нені білдіреді?",
+        "en": "What does the term \"Limited visibility\" mean?"
+      },
+      "explanation": {
+        "ru": "Ограниченная видимость — это видимость водителем дороги менее 100 метров в направлении движения, ограниченная рельефом местности, геометрическими параметрами дороги, растительностью, строениями, сооружениями или иными объектами, в том числе транспортными средствами. (Раздел 1, пункт 2.64 ПДД РК.)",
+        "kz": "Шектеулі көріну-бұл жер бедерімен, жолдың геометриялық параметрлерімен, өсімдіктермен, құрылыстармен, құрылыстармен немесе басқа объектілермен, соның ішінде көлік құралдарымен шектелген қозғалыс бағытында 100 метрден аз жол жүргізушісінің көрінуі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.64-тармағы.)\n",
+        "en": "Limited visibility is the driver's visibility of the road less than 100 meters in the direction of movement, limited by the terrain, geometric parameters of the road, vegetation, buildings, structures or other objects, including vehicles. (Section 1, paragraph 2.64 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230715_0537_gzcivz0e0v_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230715_0537_z3f60llgfa_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Ограниченная видимость — видимость водителем дороги менее 100 метров в направлении движения, ограниченная рельефом местности, геометрическими параметрами дороги, растительностью, строениями, сооружениями или иными объектами, в том числе транспортными\nсредствами.",
+            "kz": "Жүргізушіге жергілікті жердің бедерімен, жолдың геометриялық параметрлерімен, өсімдіктермен, салынған үйлермен, құрылыстармен немесе өзге де объектілермен, оның ішінде көлік құралдарымен шектелген жүріс бағытындағы жолдың 100 метрден кем көрінуі.",
+            "en": "Limited visibility — visibility by the driver of the road less than 100 meters in the direction\nof movement, limited by the terrain, geometric parameters of the road,\nvegetation, buildings, structures or other objects, including\nvehicles."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость водителем дороги менее 300 м в условиях тумана, дождя, снегопада, а также в сумерки.",
+            "kz": "Жүргізушінің жолды көру мүмкіндігі тұманда, жаңбырда, қарда, сондай-ақ кешқұрым\nуақытта 300 м-ден аз.",
+            "en": "Visibility of the road by the driver is less than 300 m in conditions of fog, rain, snowfall, as well as at\ndusk."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость водителем дороги менее 150 м в ночное время.",
+            "kz": "Жүргізушінің түнгі уақытта жолды көру мүмкіндігі 150 м-ден аз.",
+            "en": "Visibility of the road by the driver is less than 150 m at night."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость водителем дороги во всех перечисленных случаях.",
+            "kz": "Жоғарыда аталған барлық жағдайларда жолдың жүргізушіге көрінуі.",
+            "en": "Visibility of the road by the driver in all the listed cases."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1917,
+      "question": {
+        "ru": "Разрешается ли Вам приступить к выполнению поворота направо в данной ситуации? ",
+        "kz": "Сізге осы жағдайда оңға бұрылуды орындауға кірісуге рұқсат етіледі ме? ",
+        "en": "Are you allowed to make a right turn in this situation?"
+      },
+      "explanation": {
+        "ru": "Перед Вами установлен дорожный знак 2.4 «Уступите дорогу». Водитель уступает дорогу транспортным средствам, движущимся по пересекаемой дороге. Уступить дорогу (не создавать помех) — означает, что участник дорожного движения не начинает, не возобновляет или не продолжает движение, не осуществляет какой-либо маневр, если это может вынудить других участников движения, имеющих по отношению к нему преимущество, изменить направление движения или скорость. (Раздел 1, пункт 2.25 ПДД РК. Дорожные знаки. Приложение 1 к ПДД РК.)",
+        "kz": "Сіздің алдыңызда 2.4 «Жол беріңіз» белгісі орнатылған. Жүргізуші қиылысатын жолмен жүретін көліктерге жол береді. Жол беріңіз(кедергі жасамаңыз) —  бұл жол қозғалысына қатысушының қозғалысты бастамайтынын, жаңартпйатынын немесе жалғастырмайтынын білдіреді, егер бұл оған қатысты артықшылығы бар басқа қозғалысқа қатысушыларды қозғалыс бағытын немесе жылдамдығын өзгертуге мәжбүр етуі мүмкін болса, ешқандай маневр жасамайды. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.25-тармағы. Жол белгілері. ҚР жол ережесіне 1-қосымша.)",
+        "en": "A road sign 2.4 \"Give way\" is installed in front of you. The driver gives way to vehicles moving along the intersected road. Give way (do not interfere) — means that a road user does not start, does not resume or does not continue driving, does not perform any maneuver if this may force other road users who have an advantage over him to change the direction of movement or speed. (Section 1, paragraph 2.25 Traffic regulations of the Republic of Kazakhstan. Road signs. Appendix 1 to the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240214_1412_pnzmzcfrph_video",
+        "size": 644
+      },
+      "explanation_file": {
+        "id": "20240214_1412_kvzxug1pkx_video",
+        "size": 1721
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Разрешается.",
+            "kz": "Рұқсат етіледі. ",
+            "en": "Permitted."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Разрешается, если это не создает помех движению грузового автомобиля.",
+            "kz": "Рұқсат етіледі, егер бұл жүк көлікке кедергі туғызбаса. ",
+            "en": "It is allowed if it does not interfere with the movement of the truck."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Разрешается, если водитель грузового автомобиля подал звуковой сигнал.",
+            "kz": "Рұқсат етіледі, егер жүк көлік жүргізушісі дыбыстық сигнал берген болса.",
+            "en": "It is allowed if the truck driver beeps."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1908,
+      "question": {
+        "ru": "Укажите количество полос движения на данном участке дороги:",
+        "kz": "Көрсетілген жол учаскесінде қанша жүру жолағы бар екенін көрсетіңіз: ",
+        "en": "Name the quantity of lanes in the road section:"
+      },
+      "explanation": {
+        "ru": "В данном случае количество полос движения для безрельсовых транспортных средств определяется горизонтальной разметкой 1.5. (Раздел 9, пункт 60 ПДД РК. Разметка дорожная и ее характеристики. Приложение 2 к ПДД РК.)",
+        "kz": "Бұл жағдайда рельссіз көлік құралдары үшін жолақтардың саны 1.5 көлденең таңбамен  анықталады . (ҚР Жол қозғалысы ережелерінің 9-бөлімі, 60-тармағы. Жол белгілері және оның сипаттамалары. ҚР жол ережесіне 2-қосымша.)",
+        "en": "In this case, the number of lanes for trackless vehicles is determined by horizontal marking 1.5. (Section 9, paragraph 60 Traffic regulations of the Republic of Kazakhstan. Road markings and their characteristics. Appendix 2 to the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0503_putgglimqv_video",
+        "size": 326
+      },
+      "explanation_file": {
+        "id": "20230829_0503_g04udswojo_video",
+        "size": 204
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Одна.",
+            "kz": "Бір. ",
+            "en": "One."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Две.",
+            "kz": "Екі. ",
+            "en": "Two."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Три.",
+            "kz": "Үш. ",
+            "en": "Three."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": "Четыре.",
+            "kz": "Төрт. ",
+            "en": "Four."
+          }
+        },
+        {
+          "id": 5,
+          "is_correct": false,
+          "title": {
+            "ru": "Пять.",
+            "kz": "Бес.",
+            "en": "Five."
+          }
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "question": {
+        "ru": "Что означает требование \"Уступить дорогу\"?",
+        "kz": "\"Жол беру\" талабы нені білдіреді?",
+        "en": "What does the requirement of permissiveness mean?"
+      },
+      "explanation": {
+        "ru": "Уступить дорогу (не создавать помех) — означает, что участник дорожного движения не начинает, не возобновляет или не продолжает движение, не осуществляет какой-либо маневр, если это может вынудить других участников движения, имеющих по отношению к нему преимущество, изменить направление движения или скорость.  (Раздел 1, пункт 2.25, ПДД РК.)",
+        "kz": "Жол беру (кедергі туғызбау) — жол жүрісіне қатысушы, егер бұл оған қатысты артықшылығы бар жол жүрісіне басқа қатысушылардың жүру бағытын немесе жылдамдығын өзгертуге мәжбүр етуі мүмкін болса, жүруді бастамайтынын, қайта бастамайтынын немесе жалғастырмайтынын, қандай да болмасын маневрді жүзеге асырмайтынын білдіреді.(ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.25-тармағы.)",
+        "en": "According to the rules of the conditions of admission (non-interference), the driver should not initiate, restart or continue any movement if the driver can force other participants of the movement to change the direction of movement or speed in relation to him.(Section 1, paragraph 2.25 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230513_0659_zywlun6lac_video",
+        "size": 281
+      },
+      "explanation_file": {
+        "id": "20230513_0700_tmwtjtkhrf_video",
+        "size": 253
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Водители обязаны остановить транспортное средство только при наличии дорожного знака «Уступите дорогу».",
+            "kz": "Жүргізушілер «Жол беріңіз» жол белгісі болған кезде ғана көлік құралын тоқтатуы керек.",
+            "en": "Drivers should stop only when there is a\" give way \" road sign."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Водители обязаны обязательно остановиться, чтобы пропустить остальных участников движения.",
+            "kz": "Басқа жол қозғалысына қатысушыларды өткізу үшін жүргізушілер міндетті түрде тоқтауы\nкерек.",
+            "en": "Drivers must always stop to allow other road users to pass."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Водители обязаны не начинать, возобновлять или продолжать движение, осуществлять какой-либо маневр, если это может вынудить других участников движения, имеющих по отношению к ним преимущество, изменить направление движения или скорость.",
+            "kz": "Егер бұл оған қатысты басымдыққа ие басқа да жол қоғалысына қатысушыларды жүру бағытын\nнемесе жылдамдығын өзгертуге мәжбүрлейтін болса, жол жүрісіне қатысушы қозғалысты\nбастамауға, қайта жүрмеуге, жалғастырмауға немесе қандай да маневрді жүзеге асырмауға тиіс.",
+            "en": "Drivers should not start, continue, or continue driving, or perform any manipulations that force other road users who have an advantage over you to change direction or speed."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1916,
+      "question": {
+        "ru": "Укажите рисунок, на котором изображен край проезжей части? ",
+        "kz": "Жолдың жүру бөлiгiнiң жиегi (шеті) сипатталған суретті көрсетіңіз? ",
+        "en": "Choose the picture where the edge of the carriageway is indicated?"
+      },
+      "explanation": {
+        "ru": "Край проезжей части дороги определяется линией разметки, а при ее отсутствии — условной линией, проходящей по кромке дорожного покрытия, а также в месте примыкания проезжей части дороги к трамвайным путям у края дороги. При невозможности определить кромку дорожного покрытия, в том числе и по дорожным условиям, край проезжей части дороги определяется самим участником дорожного движения по краю накатанной полосы. (Раздел 1, пункт 2.37 ПДД РК.)",
+        "kz": "Жүру бөлігінің шеті таңба сызығымен айқындалады - таңба сызығымен, ол жоқ болғанда  - жолдың жүру бөлігінің трамвай жолдарымен жол шетінде жанасатын жерлерде жол жабыны өтетін шартты сызықпен айқындалады. Жол жабынының жиегін, оның ішінде жол жағдайлары бойынша айқындау мүмкін болмаған кезде  жолдың жүру бөлігінің шетін таптаурын жолақтың шеті бойынша жол жүрісіне қатысушы өзі айқындайды. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.37-тармағы.)",
+        "en": "The edge of the carriageway is determined by the marking line, and in its absence — by a conditional line passing along the edge of the pavement, as well as at the junction of the carriageway to the tram tracks at the edge of the road. If it is impossible to determine the edge of the road surface, including by road conditions, the edge of the carriageway of the road is determined by the road user himself along the edge of the rolled strip. (Section 1, paragraph 2.37 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240026_0216_y4o54ukod2_video",
+        "size": 110
+      },
+      "explanation_file": {
+        "id": "20240026_0216_xqqwljgmvs_video",
+        "size": 110
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Рисунок I. ",
+            "kz": "I сурет. ",
+            "en": "Picture I."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Рисунок II. ",
+            "kz": "II сурет. ",
+            "en": "Pictures II."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Рисунок III. ",
+            "kz": "III сурет. ",
+            "en": "Pictures III."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": "На всех рисунках.",
+            "kz": "Барлық суреттерде.",
+            "en": "All pictures."
+          }
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "question": {
+        "ru": "Где начинают действовать требования Правил, относящиеся к населённым пунктам?",
+        "kz": "Ереженің елді мекендерге қатысты талаптары қай жерден бастап әрекет етеді?",
+        "en": "Where do the requirements of the regulation regarding the settlement begin to apply?"
+      },
+      "explanation": {
+        "ru": "Правила устанавливают ряд требований, которые обязательны для выполнения только в населенных пунктах. Эти требования начинают действовать с места установки знака с названием населенного пункта на белом фоне. (Раздел 1, пункт 2.18, ПДД РК. Дорожные знаки. Приложение 1 к ПДД РК.)",
+        "kz": "Ережелер елді мекендерде ғана орындауға міндетті бірқатар талаптарды белгілейді. Бұл талаптар елді мекеннің атауы ақ фонда жазылған белгі орнатылған жерден күшіне енеді.(1-бөлім, 2.18-тармақ, ҚР ЖҚЕ. Жол белгілері. ҚР жол ережесіне 1-қосымша.)",
+        "en": "The rules establish a number of requirements that are mandatory only in localities. These requirements begin to apply from the place of installation of a sign with the name of the settlement on a white background. (Section 1, paragraph 2.18, Traffic regulations of the Republic of Kazakhstan. Road signs. Appendix 1 to the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230513_0701_0bnhx94dq0_video",
+        "size": 248
+      },
+      "explanation_file": {
+        "id": "20230513_0701_5cstav0vyk_video",
+        "size": 508
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Только с места установки дорожного знака «Начало населенного пункта» на белом фоне.",
+            "kz": "Ақ фондағы «Елді мекеннің басталуы» жол белгісі орнатылған жерден ғана.",
+            "en": "On a white background from the place where the road sign\" beginning of the settlement \" is installed."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "С места установки дорожного знака с названием населенного пункта на белом или синем фоне.",
+            "kz": "Ақ немесе көк фонда елді мекеннің атауы жазылған жол белгісі орналасқан жерден.",
+            "en": "From where the road sign is located, the name of the locality is written on a white or blue background."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "В начале застроенной территории, непосредственно прилегающей к дороге.",
+            "kz": "Жолға тікелей жақын салынған аумақтың басында.",
+            "en": "At the beginning of the settlement near the road."
+          }
+        }
+      ]
+    },
+    {
+      "id": 651,
+      "question": {
+        "ru": "\"Мотоцикл\" - это:",
+        "kz": "\"Мотоцикл\" - бұл:",
+        "en": "A motorcycle is:"
+      },
+      "explanation": {
+        "ru": "Мотоцикл — это двухколесное механическое транспортное средство с боковым прицепом или без него, имеющее двигатель. К мотоциклам приравниваются трех- и четырехколесные транспортные средства, вес которых без нагрузки не превышает четырехсот килограммов, скутеры с объемом цилиндра, превышающим пятьдесят кубических сантиметров, и другие транспортные средства с аналогичными характеристиками. (Раздел 1, пункт 2.51 ПДД РК.)",
+        "kz": "Мотоцикл - бұл екі доңғалақты, бүйірлік тіркемесі бар немесе  жоқ қозғалтқышы бар механикалық көлік құралы. Мотоциклдерге салмағы жүктемесіз төрт жүз килограмнан аспайтын үш және төрт доңғалақты көлік құралдары, цилиндр көлемі елу текше сантиметрден асатын скутерлер және ұқсас сипаттамалары бар басқа да көлік құралдары теңестіріледі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.51-тармағы.)",
+        "en": "A motorcycle is a two—wheeled mechanical vehicle with or without a side trailer, having an engine. Motorcycles are equated with three- and four-wheeled vehicles whose weight without load does not exceed four hundred kilograms, scooters with a cylinder volume exceeding fifty cubic centimeters, and other vehicles with similar characteristics. (Section 1, paragraph 2.51 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20220806_0956_1dqaosv05r_video",
+        "size": 763
+      },
+      "explanation_file": {
+        "id": "20220806_0956_xlj6rtwmh4_video",
+        "size": 764
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Двухколёсное транспортное средство без двигателя.",
+            "kz": "Қозғалтқышы жоқ екі доңғалақты көлік.",
+            "en": "Two-wheeled vehicle with an engine."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Двухколесное механическое транспортное средство с боковым прицепом или без него, имеющее двигатель.",
+            "kz": "Қозғалтқышы бар, бүйірлік тіркемесі бар немесе онсыз екі доңғалақты механикалық көлік құралы.",
+            "en": "Two-wheeled vehicle with or without a side trailer."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Транспортное средство с двигателем внутреннего сгорания рабочим объёмом не более 50 \nкубических сантиметров.",
+            "kz": "Жұмыс  көлемі 50 текше сантиметрден аспайтын, іштен жанатын қозғалтқышы бар көлік құралы.",
+            "en": "A vehicle with an internal combustion engine with a working volume of no more than 50 cubic centimeters."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1918,
+      "question": {
+        "ru": "«Остановка» — это: ",
+        "kz": "«Аялдау» - бұл: ",
+        "en": "«Stop» is: "
+      },
+      "explanation": {
+        "ru": "Остановка — преднамеренное прекращение движения транспортного средства на время до пяти минут либо на большее время, если это необходимо для посадки или высадки пассажиров, загрузки или разгрузки транспортного средства (не считается остановкой (стоянкой) необходимость прекращения движения транспортного средства, обусловленная организацией дорожного движения). (Раздел 1, пункт 2.7 ПДД РК.)",
+        "kz": "Тоқтау -  егер жолаушыларды отырғызу немесе түсіру, көлік құралын тиеу немесе түсіру үшін қажет болса, көлік құралының қозғалысын бес минутқа дейін немесе одан да көп уақытқа әдейі тоқтату (көлік құралының жүрісін жол жүрісін ұйымдастыруға орайластырып тоқтату қажеттілігі аялдау (тоқтап тұру) болып саналмайды). (Раздел 1, пункт 2.7, ПДД РК.)",
+        "en": "A stop is a deliberate cessation of the movement of a vehicle for up to five minutes or for a longer time, if it is necessary for passengers to board or disembark, load or unload the vehicle (the need to stop the movement of the vehicle due to the organization of traffic is not considered a stop (parking)). (Section 1, paragraph 2.7 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0655_r965zdi5uf_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0655_dcg030v4ns_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Прекращение движения транспортного средства, обусловленное организацией дорожного движения. ",
+            "kz": "Жол жүрісін ұйымдастырумен негізделген көлік құралының жүруін тоқтату. ",
+            "en": "No traffic due to traffic management."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Преднамеренное прекращение движения транспортного средства на время до 5 минут либо на большее время, если это необходимо для посадки или высадки пассажиров, загрузки или разгрузки транспортного средства.",
+            "kz": "Көлiк құралының жүрісін бес минутқа дейін немесе егер бұл жолаушыларды отырғызу немесе түсіру, көлік құралын тиеу немесе түсіру үшін қажет болса, одан да көбірек уақытқа әдейі тоқтату. ",
+            "en": "Purposeful traffic congestion of the vehicles for up to 5 minutes."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Прекращение движения транспортного средства, связанное с состоянием водителя (пассажира) или появлением препятствия на дороге.",
+            "kz": "Жүргізушінің (жолаушының) күйіне немесе жолда кедергілердің тууына байланысты көлік құралының жүрісін тоқтату.",
+            "en": "Traffic congestion of  the vehicles associated with the state of the driver (passenger) or an obstacle on the road."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1905,
+      "question": {
+        "ru": "На каких рисунках изображена главная дорога? ",
+        "kz": "Басты жол қай суретте бейнеленген?  ",
+        "en": "Where is the main road in the picture?"
+      },
+      "explanation": {
+        "ru": "Главная дорога — дорога, обозначенная знаками 2.1 «Главная дорога», 2.3.1 «Пересечение со второстепенной дорогой», 2.3.2, 2.3.3 «Примыкание второстепенной дороги» или 5.1 «Автомагистраль» по отношению к пересекаемой (примыкающей), или дорога с твердым покрытием (асфальто- и цементобетон, каменные материалы и тому подобное) по отношению к грунтовой (рисунки I и IV). (Раздел 1, пункт 2.9 ПДД РК. Дорожные знаки. Приложение 1 к ПДД РК.)",
+        "kz": "Басты жол — 2.1 «Басты жол», 2.3.1 «Екінші маңыздағы жолмен қиылысу», 2.3.2, 2.3.3 «Екінші маңыздағы жолдың жанасуы» немесе 5.1 «Автомагистраль» белгілерімен белгіленген, қиылысқа (іргелес) қатысты немесе топыраққа қатысты қатты жабынды жол (асфальт және цементбетон, тас материалдар және т. б.) (I және IV суреттер). (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.9-тармағы. Жол белгілері. ҚР жол ережесіне 1-қосымша.)",
+        "en": "Main road — a road marked with signs 2.1 \"Main road\", 2.3.1 \"Intersection with a secondary road\", 2.3.2, 2.3.3 \"Junction of a secondary road\" or 5.1 \"Motorway\" in relation to the intersected (adjacent), or paved road (asphalt and cement concrete, stone materials, etc.) on in relation to the ground (Figures I and IV). (Section 1, paragraph 2.9 of the Traffic Regulations of the Republic of Kazakhstan. Road signs. Appendix 1 to the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240026_0214_uegqddp9bq_video",
+        "size": 227
+      },
+      "explanation_file": {
+        "id": "20240026_0215_02dtb0zno3_video",
+        "size": 140
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "На рисунке I.  ",
+            "kz": "I суретте.  ",
+            "en": "Picture I."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "На рисунках I и III.",
+            "kz": "I және III суреттерде. ",
+            "en": "Pictures I and III."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "На рисунках I и IV.",
+            "kz": "I және IV суреттерде. ",
+            "en": "Pictures I and IV."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "На рисунках I, III и IV. ",
+            "kz": "I, III және IV суреттерде. ",
+            "en": "Pictures I, III and IV."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1224,
+      "question": {
+        "ru": "Является ли данный перекресток равнозначным? ",
+        "kz": "Бұл қиылыс тең мағыналы болып саналады ма?",
+        "en": "Is this intersection intersection?"
+      },
+      "explanation": {
+        "ru": "Перекресток является равнозначным при одновременном соблюдении следующих условий: нет светофоров и регулировщика; нет знаков приоритета (главная дорога, уступите дорогу), на перекрестке неравнозначных дорог водитель транспортного средства, движущегося по второстепенной дороге, уступает дорогу транспортным средствам, приближающимся по главной, независимо от направления их дальнейшего движения, в том числе осуществляющим разворот. Водитель, движущийся по главной дороге, имеющей разделительную полосу, перед завершением на перекрестке разворота убеждается, что транспортные средства, приближающиеся к перекрестку по второстепенной дороге, уступают ему дорогу.(Раздел 13, пункт 101 ПДД РК.)",
+        "kz": "Келесі шарттар орындалған кезде қиылысу тең мағыналы болады: бағдаршамдар мен реттеуші жоқ; басымдық белгілері жоқ (Басты жол, жол беріңіз), маңызы бірдей емес жолдардың қиылысында екінші дәрежелі жолдың бойымен жүріп келе жатқан көлік құралының жүргізушісі олардың әрі қарай жүру бағытына қарамастан, басты жолмен жақындап қалған, оның ішінде кері бұрылуды жүзеге асыратын көлік құралына жол береді. Бөлу жолағы бар басты жолмен жүріп бара жатқан жүргізуші жол қиылысында кері бұрылуды жүзеге асырмас бұрын, екінші дәрежелі жолмен жол қиылысына жақындаған көлік құралының оған жол беретіндігіне көз жеткізеді. (ҚР Жол қозғалысы ережелерінің 13-бөлімі, 101-тармағы.)",
+        "en": "An intersection is equivalent if the following conditions are met simultaneously: there are no traffic lights and a traffic controller; there are no priority signs (main road, give way), at the intersection of unequal roads, the driver of a vehicle moving along a secondary road gives way to vehicles approaching along the main road, regardless of the direction of their further movement, including those performing a U-turn. A driver moving along the main road with a dividing lane, before completing a U-turn at the intersection, makes sure that vehicles approaching the intersection on a secondary road give way to him.(Section 13, paragraph 101 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230516_1205_5en0ckjtkp_video",
+        "size": 281
+      },
+      "explanation_file": {
+        "id": "20230516_1206_0h9wxtrl2e_video",
+        "size": 253
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Да.",
+            "kz": "Иә.",
+            "en": "Yes."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Нет.",
+            "kz": "Жоқ.",
+            "en": "No."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1925,
+      "question": {
+        "ru": "«Регулировщик» — распознаваемый и видимый в любое время суток, имеющий соответствующее удостоверение и экипировку, а также уполномоченный выполнять распорядительные действия по управлению движением на дорогах:  ",
+        "kz": "Тәуліктің кез келген уақытында танылатын және көрінетін (тиiстi куәлiгi мен жабдығыбар, сондай-ақ жолдағы жүрісті басқару бойынша реттеу iс-әрекеттерiн орындауға уәкiлеттi) «реттеушi»:",
+        "en": "«Traffic controller», recognizing and visible at any time of the day (having the appropriate license and equipment and authorized to make an action for traffic control on roads):"
+      },
+      "explanation": {
+        "ru": "Регулировщик — распознаваемый и видимый в любое время суток сотрудник органов внутренних дел, военной полиции или военнослужащий дорожно-комендантского подразделения, работник органов транспортного контроля Министерства по инвестициям и развитию Республики Казахстан (далее - органов транспортного контроля), работник дорожно-эксплуатационной службы, дежурный на железнодорожном переезде, паромной переправе, имеющие соответствующее удостоверение и экипировку (форменную одежду или отличительный знак - нарукавную повязку, жезл, диск с красным сигналом либо световозвращателем, красный фонарь или флажок), уполномоченные выполнять распорядительные действия по управлению движением на дорогах. (Раздел 1, пункт 2.54 ПДД РК.)",
+        "kz": "Реттеуші— жолдағы жүрісті басқару бойынша реттеу іс-әрекеттерін орындауға уәкілетті, тиісті куәлігі мен жабдығы (нысандық киімі немесе айырым белгісі — қолына тағатын байлауышы, ала таяғы, қызыл белгісі не жарық шағылыстырғыш дискісі, қызыл шам немесе жалаушасы) бар, тәуліктің кез келген уақытында танылатын және көрінетін ішкі істер органдарының, әскери полиция қызметкері немесе жол-коменданттық бөлімшенің әскери қызметшісі, Қазақстан Республикасы Инвестициялар және даму министрлігі көліктік бақылау органдарының (бұдан әрі - көліктік бақылау органдары) қызметкері, жол-пайдалану қызметінің қызметкері, теміржол өткеліндегі, паром өтпесіндегі кезекші. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.54-тармағы.)",
+        "en": "Traffic controller — recognized and visible at any time of the day, an employee of the internal affairs bodies, military police or a serviceman of the road commandant unit, an employee of the transport control bodies of the Ministry of Investment and Development of the Republic of Kazakhstan (hereinafter referred to as transport control bodies), an employee of the road maintenance service, on duty at a railway crossing, ferry crossing, having the appropriate certificate and equipment (uniform or distinctive sign - an armband, a baton, a disk with a red signal or a retroreflector, a red lantern or a flag) authorized to perform administrative actions to control traffic on the roads. (Section 1, paragraph 2.54 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0851_h10b0vwb91_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0851_pn5gm413pn_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Сотрудник органов внутренних дел. ",
+            "kz": "Iшкi iстер органдарының қызметкері. ",
+            "en": "An officer of the Interior."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Сотрудник военной полиции или военнослужащий комендантского подразделения. ",
+            "kz": "Әскери полиция қызметкері немесе жол-коменданттық бөлiмшенiң әскери қызметшiсi. ",
+            "en": "An officer  of the military police or a military curfew unit."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Работник органов транспортного контроля Министерства по инвестициям и развитию Республики Казахстан. ",
+            "kz": "Қазақстан Республикасы Инвестициялар және даму министрлігі көлiктiк бақылау органдарының қызметкерi. ",
+            "en": "An employee of the transport control of the Ministry of Investment and Development of the Republic of Kazakhstan."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Работник дорожно-эксплуатационной службы, дежурный на железнодорожном переезде, паромной переправе. ",
+            "kz": "Жол-пайдалану қызметiнiң қызметкерi, теміржол өткеліндегі, паром өтпесіндегі кезекшi. ",
+            "en": "A worker  of a maintenance service on duty at a railway crossing, a ferry."
+          }
+        },
+        {
+          "id": 5,
+          "is_correct": true,
+          "title": {
+            "ru": "Все вышеперечисленные.",
+            "kz": "Жоғарыда аталғанның барлығы.",
+            "en": "All above mentioned."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1926,
+      "question": {
+        "ru": "Как называется маневр, выполняемый водителем легкового автомобиля красного цвета?",
+        "kz": "Қызыл түсті жеңіл автокөлік жүргізушісі жасаған маневр  қалай аталады?  ",
+        "en": "What is the name of the maneuver making by the driver of the red car?"
+      },
+      "explanation": {
+        "ru": "Обгон — опережение движущегося впереди одного или нескольких транспортных средств, связанное с выездом из занимаемой полосы и последующим возвращением на ранее занимаемую полосу. Перестроение — смена занимаемой транспортным средством полосы движения с сохранением первоначального направления движения. (Раздел 1, пункт 2.10 ПДД РК.)",
+        "kz": "Басып озу — келе жатқан жолақтан шығуға және одан кейін бұрын келе жатқан жолаққа оралуға байланысты бір немесе бірнеше көлік құралдарының алдынан қозғалатын озу. Қатар ауыстыру —  көлік құралының өзі жүріп келе жатқан жүру жолағын бастапқы жүру бағытын сақтай отырып ауыстыруы. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.10-тармағы.)",
+        "en": "Overtaking is the advance of one or more vehicles moving ahead, associated with leaving the occupied lane and then returning to the previously occupied lane. Realignment is the change of the lane occupied by the vehicle while maintaining the original direction of movement. (Section 1, paragraph 2.10 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20231115_0653_ekudfzvti9_video",
+        "size": 189
+      },
+      "explanation_file": {
+        "id": "20231115_0653_r0akzbf0cj_video",
+        "size": 305
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Обгон.",
+            "kz": "Басып озу. ",
+            "en": "Overtaking."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Объезд.",
+            "kz": "Айналып өту. ",
+            "en": "Come round."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Перестроение.",
+            "kz": "Қатар ауыстыру.  ",
+            "en": "Changing lanes."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Опережение.",
+            "kz": "Озып шығу.",
+            "en": "Passing."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "question": {
+        "ru": "«Недостаточная видимость» — это: ",
+        "kz": "«Жеткіліксіз көріну» - бұл:  ",
+        "en": "Insufficient visibility is:"
+      },
+      "explanation": {
+        "ru": "Недостаточная видимость - видимость дороги менее 300 м в условиях тумана, дождя, пыли, снегопада и тому подобного, а также в сумерки. (Раздел 1, пункт 2.21 ПДД РК.)",
+        "kz": "Жеткіліксіз көріну - тұман, жаңбыр, шаң, қар жауу және сол сияқты жағдайларда, сондай-ақ қаракөлеңкеде жолдың 300 метрден кем көрінуі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.21-тармағы.)",
+        "en": "Insufficient visibility - Visibility of the road is less than 300 m in conditions of fog, rain, dust, snowfall and the like, as well as at dusk. (Section 1, paragraph 2.21 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240208_0734_qjp5e6ahi0_video",
+        "size": 246
+      },
+      "explanation_file": {
+        "id": "20240208_0734_hp9g0fcspj_video",
+        "size": 269
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Видимость дороги менее 300 м в условиях тумана, дождя, пыли, снегопада и тому подобного, а также в сумерки.",
+            "kz": "Тұман, жаңбыр, шаң, қар жауу және сол сияқты жағдайларда, сондай-ақ қаракөлеңкеде жолдың 300 метрден кем көрінуі.",
+            "en": "Visibility of the road is less than 300 m in conditions of fog, rain, dust, snowfall and the like, as well as at dusk."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость дороги менее 400 м в условиях тумана, дождя, пыли, снегопада и тому подобного, а также в сумерки.",
+            "kz": "Тұман, жаңбыр, шаң, қар жауу және сол сияқты жағдайларда, сондай-ақ қаракөлеңкеде жолдың 400 метрден кем көрінуі.",
+            "en": "Visibility of the road is less than 400 m in conditions of fog, rain, dust, snowfall and the like, as well as at dusk."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость дороги менее 350 м в условиях тумана, дождя, пыли, снегопада и тому подобного, а также в сумерки",
+            "kz": "Тұман, жаңбыр, шаң, қар жауу және сол сияқты жағдайларда, сондай-ақ қаракөлеңкеде жолдың 350 метрден кем көрінуі.",
+            "en": "Visibility of the road is less than 350 m in conditions of fog, rain, dust, snowfall and the like, as well as at dusk."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1222,
+      "question": {
+        "ru": "Является ли данный перекресток равнозначным? ",
+        "kz": "Бұл қиылыс тең мағыналы болып саналады ма?",
+        "en": "Is this intersection intersection?"
+      },
+      "explanation": {
+        "ru": "Перекресток является равнозначным при одновременном соблюдении следующих условий: нет светофоров и регулировщика; нет знаков приоритета (главная дорога, уступите дорогу), на перекрестке равнозначных дорог водитель безрельсового транспортного средства уступает дорогу транспортным средствам, приближающимся справа. Этим же правилом руководствуются между собой водители трамваев.\n\nНа таких перекрестках трамвай имеет преимущество перед безрельсовыми транспортными средствами независимо от направления его движения. (Раздел 13, пункт 103 ПДД РК.)",
+        "kz": "Келесі шарттар орындалған кезде қиылысу тең мағыналы болады: бағдаршамдар мен реттеуші жоқ; басымдық белгілері жоқ (Басты жол, жол беріңіз), маңызы бірдей жолдардың қиылысында рельссіз көлік құралдарының жүргізушісі оң жақтан жақындап қалған көлік құралына жол береді. Трамвайлардың жүргізушілері де өзара осы қағидаларды басшылыққа алады.\n\nМұндай жол қиылыстарында, оның жүру бағытына қарамастан, рельссіз көлік құралдарының алдында трамвай артықшылыққа ие болады. (ҚР Жол қозғалысы ережелерінің 13-бөлімі, 103-тармағы.)\n\n",
+        "en": "The intersection is equivalent if the following conditions are met simultaneously: there are no traffic lights and a traffic controller; there are no priority signs (main road, give way), at the intersection of equivalent roads, the driver of a trackless vehicle gives way to vehicles approaching from the right. Tram drivers are guided by the same rule among themselves.\n\nAt such intersections, the tram has an advantage over trackless vehicles, regardless of the direction of its movement. (Section 13, paragraph 103 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230516_1138_m19l1d9icc_video",
+        "size": 313
+      },
+      "explanation_file": {
+        "id": "20230516_1138_rjegrtwb4x_video",
+        "size": 524
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Да.",
+            "kz": "Иә.",
+            "en": "Yes."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Нет.",
+            "kz": "Жоқ.",
+            "en": "No."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1907,
+      "question": {
+        "ru": "Сколько проезжих частей имеет данная дорога? ",
+        "kz": "Мына жолдың неше жүру бөлігі бар?  ",
+        "en": "How many carriageways does this road have?"
+      },
+      "explanation": {
+        "ru": "Дорогу на проезжие части делит разделительная полоса (участок с травяным покровом, посередине дороги). Разделительная полоса — конструктивно выделенный элемент дороги, разделяющий смежные проезжие части дороги и не предназначенный для движения или остановки безрельсовых транспортных средств и пешеходов, за исключением вынужденной остановки пешеходов при пересечении дороги вне населенного пункта. (Раздел 1, пункт 2.11 ПДД РК.)",
+        "kz": "Жолды жүру бөлігіне бөлу жолағы бөледі (шөп жамылғысы бар учаске, жолдың ортасында). Бөлу жолағы — жолдың іргелес жүретін бөліктерін бөлетін және елді мекеннен тыс жолды кесіп өту кезінде жаяу жүргіншілердің мәжбүрлі аялдамасын қоспағанда, рельссіз көлік құралдары мен жаяу жүргіншілердің жүруіне немесе тоқтауына арналмаған жолдың конструктивті бөлінген элементі. (1-бөлім, 2.11-тармақ, ҚР ЖҚЕ)",
+        "en": "The road is divided into carriageways by a dividing strip (a section with a grass cover, in the middle of the road). A dividing strip is a structurally allocated road element that separates adjacent carriageways of the road and is not intended for the movement or stopping of trackless vehicles and pedestrians, except for the forced stop of pedestrians when crossing the road outside the locality. (Section 1, paragraph 2.11 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230828_1213_betrbah21k_video",
+        "size": 326
+      },
+      "explanation_file": {
+        "id": "20230828_1220_ankvgpfumy_video",
+        "size": 196
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Одну.",
+            "kz": "Бір. ",
+            "en": "One."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Две.",
+            "kz": "Екі.",
+            "en": "Two."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Четыре.",
+            "kz": "Төрт.",
+            "en": "Four."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1922,
+      "question": {
+        "ru": "«Разделительная полоса» — это: ",
+        "kz": "«Бөлу жолағы» - бұл: ",
+        "en": "«Dividing line» is:"
+      },
+      "explanation": {
+        "ru": "Разделительная полоса — конструктивно выделенный элемент дороги, разделяющий смежные проезжие части дороги и не предназначенный для движения или остановки безрельсовых транспортных средств и пешеходов, за исключением вынужденной остановки пешеходов при пересечении дороги вне населенного пункта. (Раздел 1, пункт 2.11 ПДД РК.)",
+        "kz": "Бөлу жолағы- жолдың аралас жүру бөлігін бөлетін және жолды елді мекеннен тыс кесіп өткен кезде жаяу жүргіншінің мәжбүрлі тоқтауын қоспағанда, рельссіз көлік құралдарының және жаяу жүргіншілердің жүруіне және тоқтауына арналмаған конструкциялық бөлінген элементі.(ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.11-тармағы.)",
+        "en": "A dividing strip is a structurally allocated road element separating adjacent carriageways of the road and is not intended for the movement or stopping of trackless vehicles and pedestrians, except for the forced stop of pedestrians when crossing the road outside the locality. (Section 1, paragraph 2.11 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0726_btnd96999n_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0726_c9llo1t0yg_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Продольная полоса проезжей части, имеющая ширину, достаточную для движения автомобилей в один ряд. ",
+            "kz": "Бір қатарда көлік құралдарының жүруі үшін жеткілікті ені бар жүру бөлігінің  жолағы.  ",
+            "en": "A longitudinal lane of roadway, which is wide enough for the  moving of a vehicle in a row."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Конструктивно выделенный элемент дороги, разделяющий смежные проезжие части дороги и не предназначенный для движения или остановки безрельсовых транспортных средств и пешеходов, за исключением вынужденной остановки пешеходов при пересечении дороги вне населенного пункта.",
+            "kz": "Жолдың аралас жүру бөлігін бөлетін және жолды елді мекеннен тыс кесіп өткен кезде жаяу жүргіншінің мәжбүрлі тоқтауын қоспағанда, рельссіз көлік құралдарының және жаяу жүргіншілердің жүруіне және тоқтауына арналмаған конструкциялық бөлінген элементі.",
+            "en": "Constructively detached selected item of the road that separates the adjacent roadways."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Участок земли с искусственным травяным покровом, являющийся фоном для посадок растений и парковых сооружений.",
+            "kz": "Өсімдіктерді отырғызу және саябақ ғимараттары үшін фон болып табылатын жасанды шөп жабыны бар жер учаскесі.",
+            "en": "A land section with artificial grass which is the background for planting plants and park facilities."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1200,
+      "question": {
+        "ru": "Какое количество пересечении проезжих частей на этом перекрестке?",
+        "kz": "Бұл қиылыстағы жол жүру бөлігінің қиылыстарының саны қанша?",
+        "en": "What is the number of intersections of roadways at this intersection?"
+      },
+      "explanation": {
+        "ru": "Перекресток имеет два пересечения проезжих частей, так как пересекаемая дорога с разделительной полосой имеет две проезжие части. (Раздел 1, пункт 2.28 ПДД РК.)",
+        "kz": "Қиылыста екі жол жүру бөлігінің қиылысы бар, өйткені бөлу жолағы бар жолдың қиылысында екі жол жүру бөлігі бар. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.28-тармағы.)",
+        "en": "The intersection has two intersections of carriageways, since the intersected road with a dividing strip has two carriageways. (Section 1, paragraph 2.28 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230513_0550_ixnu9nmmvu_video",
+        "size": 170
+      },
+      "explanation_file": {
+        "id": "20240119_0505_hzt5spnt4z_video",
+        "size": 148
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "1.",
+            "kz": "1.",
+            "en": "1."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "2.",
+            "kz": "2.",
+            "en": "2."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "4.",
+            "kz": "4.",
+            "en": "4."
+          }
+        }
+      ]
+    },
+    {
+      "id": 652,
+      "question": {
+        "ru": "\"Прицеп\" - это:",
+        "kz": "\"Тіркеме\"- бұл :",
+        "en": "The trailer is :"
+      },
+      "explanation": {
+        "ru": "Прицеп — транспортное средство, не оборудованное двигателем и предназначенное для движения в составе с механическим транспортным средством. Понятие распространяется также на полуприцепы и прицепы-роспуски. (Раздел 1, пункт 2.61 ПДД РК.)",
+        "kz": "Тіркеме — қозғалтқышпен жабдықталмаған және механикалық көлік құралының құрамында жүруге арналған көлік құралы. Ұғым жартылай тіркемелер мен ұзартылмалы тіркемелерге де қолданылады. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.61-тармағы.)",
+        "en": "Trailer — a vehicle that is not equipped with an engine and is intended for movement in a compound with a mechanical vehicle. The concept also applies to semi-trailers and trailers-dissolves. (Section 1, paragraph 2.61 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20220806_0957_59xnoelrga_video",
+        "size": 691
+      },
+      "explanation_file": {
+        "id": "20220806_0957_vnrx3cg93y_video",
+        "size": 693
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Транспортное средство, не оборудованное двигателем и предназначенное для движения в \nсоставе с механическим транспортным средством.",
+            "kz": "Қозғалтқышпен жабдықталмаған және механикалық көлік құралының құрамында\nжүруге арналған көлік құралы.",
+            "en": "A vehicle that is not equipped with an engine and is intended for controlled movement as part of a mechanical vehicle."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Транспортное средство для перевозки грузов.",
+            "kz": "Жүктерді тасымалдауға арналған көлік  құралы.",
+            "en": "Transport for cargo transportation."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Транспортное средство,  оборудованное двигателем и предназначенное для движения в \nсоставе с механическим транспортным средством для перевозки грузов и \nпассажиров.",
+            "kz": "Қозғалтқышпен жабдықталған және жүктер мен жолаушыларды тасымалдау үшін\nмеханикалық көлік құралының құрамында жүруге арналған көлік құралы.",
+            "en": "A vehicle that is not equipped with an engine and is intended for the transportation of goods and passengers and is intended for movement as part of a mechanical vehicle."
+          }
+        }
+      ]
+    },
+    {
+      "id": 810,
+      "question": {
+        "ru": "Являются ли тротуары и обочины частью дороги?",
+        "kz": "Тротуарлар мен жол жиектері жолдың бөлігі болып табыла ма?",
+        "en": "Are sidewalks and shoulders part of the road?"
+      },
+      "explanation": {
+        "ru": "Дорога — вся полоса отвода земли либо поверхность искусственного сооружения, обустроенная или приспособленная и используемая для движения транспортных средств и пешеходов в порядке, установленном Законом Республики Казахстан «О дорожном движении» и настоящими Правилами. Дорога включает в себя одну или несколько проезжих частей дороги, а также трамвайные пути, тротуары, обочины и разделительные полосы при их наличии(Раздел 1, пункт 2.24 ПДД РК.)",
+        "kz": "Жол — «Жол жүрісі туралы» Қазақстан Республикасының Заңында және осы Қағидаларда белгіленген тәртіппен көлік құралдары мен жаяу жүргіншілердің жүруі үшін жайғастырылған немесе ыңғайластырылған және пайдаланылатын жердің барлық бөлінген жолағы не жасанды құрылыстың үсті. Жол бір немесе бірнеше жолдың жүру бөліктерін, сондай-ақ трамвай жолдарын, тротуарларды, жол жиектерін және олар болған кезде бөлу жолақтарын қамтиды. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.24-тармағы.)",
+        "en": "The road includes one or more carriageways of the road, as well as tram tracks, sidewalks, curbs and dividing strips, if any. (Section 1, paragraph 2.24 Traffic regulations of the Republic of Kazakhstan.) "
+      },
+      "question_file": {
+        "id": "20230513_0653_djk1accwhy_video",
+        "size": 268
+      },
+      "explanation_file": {
+        "id": "20230513_0654_vgbisftfea_video",
+        "size": 221
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Являются.",
+            "kz": "Болып табылады.",
+            "en": "Are."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Является только обочина.",
+            "kz": "Тек жиегі болып табылады.",
+            "en": "Is only a curb."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Являются только тротуары.",
+            "kz": "Тротуарлар ғана болып табылады.",
+            "en": "Are only sidewalks."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Не являются.",
+            "kz": " Болып табылмайды.",
+            "en": "Are not."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1906,
+      "question": {
+        "ru": "Обязаны ли Вы уступить дорогу грузовому автомобилю при движении прямо, согласно Правилам дорожного движения? ",
+        "kz": "Сіз тура бағытта жүріп келе жатып, Жол қозғалысы ережелер бойынша, жүк автокөлікке жол бересіз бе?  ",
+        "en": "Are you obliged to give way to a truck when driving straight, according to the Rules of the road?"
+      },
+      "explanation": {
+        "ru": "Прилегающая территория — территория, непосредственно прилегающая к дороге и не предназначенная для сквозного движения транспортных средств. Движение по прилегающей территории осуществляется в соответствии с настоящими Правилами. При выезде на дорогу со второстепенной дороги водитель уступает дорогу транспортным средствам и пешеходам, движущимся по ней, а при съезде с дороги — пешеходам и велосипедистам, путь движения которых он пересекает. Соответственно, водитель грузового автомобиля при выезде на дорогу уступает Вам. (Раздел 1, пункт 2.65. Раздел 8, пункт 49 ПДД РК.)",
+        "kz": "Іргелес аумақ-жолға тікелей іргелес және көлік құралдарының өтпелі қозғалысына арналмаған аумақ. Іргелес аумақ бойынша қозғалыс осы Ережелерге сәйкес жүзеге асырылады. Екінші дәрежелі Жолдан жолға шыққан кезде жүргізуші көлік құралдары мен оның бойымен жүретін жаяу жүргіншілерге, ал жолдан шыққан кезде жаяу жүргіншілер мен велосипедшілерге жол береді. Тиісінше, жүк көлігінің жүргізушісі жолға шыққан кезде  сізге жол беруі тиіс. (1-бөлім, 2.65-тармақ. ҚР Жол қозғалысы ережелерінің 8-бөлімі, 49-тармағы.)",
+        "en": "Adjacent territory — the territory directly adjacent to the road and not intended for through traffic of vehicles. Traffic on the adjacent territory is carried out in accordance with these Rules. When entering the road from a secondary road, the driver gives way to vehicles and pedestrians moving along it, and when leaving the road — to pedestrians and cyclists whose path he crosses. Accordingly, the truck driver is inferior to you when leaving the road. (Section 1, paragraph 2.65. Section 8, paragraph 49 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240214_1009_nghouyqxdj_video",
+        "size": 421
+      },
+      "explanation_file": {
+        "id": "20240214_1009_sxvq1ksflx_video",
+        "size": 874
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Да.",
+            "kz": "Иә. ",
+            "en": "Yes."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Нет.",
+            "kz": "Жоқ.",
+            "en": "No."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1910,
+      "question": {
+        "ru": "Является ли в данной ситуации Ваша остановка вынужденной? ",
+        "kz": "Осы жағдайда Сіздің тоқтауыңыз мәжбүрлі болып табылады ма? ",
+        "en": "Is your stop enforced in this situation?"
+      },
+      "explanation": {
+        "ru": "Вынужденная остановка — прекращение движения транспортного средства из-за его технической неисправности или опасности, создаваемой перевозимым грузом, состоянием водителя (пассажира) или появлением препятствия на дороге. (Раздел 1, пункт 2.48 ПДД РК.)",
+        "kz": "Мәжбүрлі аялдау — оның техникалық ақауынан немесе ол әкеле жатқан жүк тудырған қауіптіліктен, жүргізушінің (жолаушының) жай-күйінен, жолда кедергі пайда болуынан көлік жүрісінің тоқтауы. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.48-тармағы.)",
+        "en": "Forced stop is the termination of the movement of a vehicle due to its technical malfunction or danger caused by the transported cargo, the condition of the driver (passenger) or the appearance of an obstacle on the road. (Section 1, paragraph 2.48 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240208_0733_jf9ph2ypz0_video",
+        "size": 508
+      },
+      "explanation_file": {
+        "id": "20240208_0733_dngqeysasb_video",
+        "size": 653
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Да.",
+            "kz": "Иә. ",
+            "en": "Yes."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Нет.",
+            "kz": "Жоқ.",
+            "en": "No."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1921,
+      "question": {
+        "ru": "«Разрешенная максимальная масса» — это: ",
+        "kz": "«Рұқсат етiлген ең жоғарғы масса» - бұл: ",
+        "en": "«Permissible gross weight» is:"
+      },
+      "explanation": {
+        "ru": "Разрешенная максимальная масса — масса снаряженного транспортного средства с грузом, водителем и пассажирами, установленная предприятием-изготовителем в качестве максимально допустимой. За разрешенную максимальную массу состава транспортных средств, то есть сцепленных и движущихся как одно целое, принимается сумма разрешенных максимальных масс транспортных средств, входящих в состав. (Раздел 1, пункт 2.53 ПДД РК.)",
+        "kz": "Рұқсат етілген ең жоғарғы масса - жасаушы-кәсіпорын ең жоғары рұқсат етілетін ретінде белгілеген, көлік құралының жүк тиелген, жүргізуші мен жолаушылары бар массасы. Көлік құралдары құрамының, яғни тіркелген және біртұтас ретінде қозғалатын рұқсат етілген ең жоғары масса көлік құралының құрамға кіретін ең жоғары рұқсат етілген массасының жиынтығы болып қабылданады. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.53-тармағы.)",
+        "en": "The permitted maximum mass is the mass of an equipped vehicle with cargo, driver and passengers, established by the manufacturer as the maximum permissible. For the permitted maximum mass of the composition of vehicles, that is, coupled and moving as a whole, the sum of the permitted maximum masses of the vehicles included in the composition is taken. (Section 1, paragraph 2.53 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0716_ysy6a6aiav_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0716_j0wt4dty31_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Масса транспортного средства без экипажа, пассажиров и груза, но с полным запасом топлива и необходимым комплектом инструментов.",
+            "kz": "Экипажсыз, жолаушысыз және жүксіз, бірақ толық отын қоры және қажетті құрал-саймандар жиынтығы бар көлік құралының массасы. ",
+            "en": "Weight of a vehicle without a crew, passenger and load, but with a full supply of fuel and with the tools."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Масса груженного транспортного средства, экипажа и пассажиров. ",
+            "kz": "Жүк тиелген көлік құралының, экипаж бен жолаушылары бар массасы. ",
+            "en": "Weight of a laden vehicle, crew and passenger."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Масса снаряженного транспортного средства с грузом, водителем и пассажирами, установленная предприятием-изготовителем в качестве максимально допустимой.",
+            "kz": "Жасаушы-кәсiпорын ең жоғары рұқсат етілетін ретiнде белгiлеген, көлiк құралының жүк тиелген, жүргiзушi мен жолаушылары бар массасы.",
+            "en": "Weight of a vehicle in running order with a load, a driver and passengers, installed by the manufacturer as the maximum."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1923,
+      "question": {
+        "ru": "«Водитель» — это: ",
+        "kz": "«Жүргізуші» бұл: ",
+        "en": "«Driver» is:"
+      },
+      "explanation": {
+        "ru": "Водитель — лицо, управляющее транспортным средством, погонщик, ведущий по дороге скот, стадо, вьючных, упряжных или верховых животных. (Раздел 1, пункт 2.34 ПДД РК.)",
+        "kz": "Жүргізуші -   көлік құралын басқаратын адам, жол бойымен мал табын, жүк артылған, жегілген немесе мініс малын айдаушы. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.34-тармағы.)",
+        "en": "Жүргізуші-көлік құралын басқаратын адам, жол бойында мал, табын, орауыш, атқа мінетін немесе мінетін жануарларды жүргізетін жүргізуші. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.34-тармағы.)"
+      },
+      "question_file": {
+        "id": "20230829_0734_xj5pz2t6t1_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0734_5ytptz4i2b_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Лицо, управляющее транспортным средством, погонщик, ведущий по дороге скот, стадо, вьючных, упряжных или верховых животных.",
+            "kz": "Көлік құралын басқаратын адам, жол бойымен мал, табын, жүк артылған, жегілген немесе мініс малын айдаушы.",
+            "en": "A person driving a vehicle, drover going on the road with cattle, herd, pack  or riding animal."
+          }
+        },
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Лицо, находящееся на (в) транспортном средстве и не управляющее им. ",
+            "kz": "Көлік құралында болатын және оны басқармайтын адам. ",
+            "en": "A person, who is  on  (in) the vehicle but does not drive it."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Физические лица, передвигающиеся в креслах-колясках для инвалидов, ведущие велосипед, мопед, мотоцикл. ",
+            "kz": "Мүгедектер арбасында қозғалатын, мотоцикл, мопед, велосипед жүргiзушi жеке тұлғалар. ",
+            "en": "A natural person moving in the wheelchair for disabled people, going  by bicycle, motorbike, motorcycle."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2991,
+      "question": {
+        "ru": "Уступите ли Вы дорогу мотоциклу?",
+        "kz": "Мотоциклге сіз жол бересіз бе?",
+        "en": "Will you give way to a motorcycle?"
+      },
+      "explanation": {
+        "ru": "Дорога, по которой Вы движетесь, обозначена дорожным знаком 5.1 «Автомагистраль», что делает её главной по отношению к примыкающей. На перекрестке неравнозначных дорог водитель транспортного средства, движущегося по второстепенной дороге, уступает дорогу транспортным средствам, приближающимся по главной. Соответственно, Вы не обязаны уступать дорогу мотоциклу. (Раздел 1, пункт 2.9, Раздел 13, пункт 101 ПДД РК.)",
+        "kz": "Сіз жүріп келе жатқан жол «Автомагистраль» 5.1 жол белгісімен белгіленген, бұл оны іргелес жолға қатысты басты жол етеді. Тең дәрежелі емес жолдардың қиылысында екінші дәрежелі жолмен келе жатқан көлік құралының жүргізушісі басты жолмен келе жатқан көлік құралдарына жол береді. Тиісінше, Сіз мотоциклге жол беруге міндетті емессіз. (1-бөлім, 2.9-тармақ, 13-бөлім, 101-тармақ, ҚР ЖҚЕ)",
+        "en": "The road you are driving on is marked with the road sign 5.1 \"Motorway\", which makes it the main one in relation to the adjacent one. At the intersection of unequal roads, the driver of a vehicle moving along a secondary road gives way to vehicles approaching along the main one. Accordingly, you are not required to give way to a motorcycle. (Section 1, paragraph 2.9, Section 13, paragraph 101 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240208_0732_izf43tx50z_video",
+        "size": 219
+      },
+      "explanation_file": {
+        "id": "20240208_0732_nwelowvtug_video",
+        "size": 422
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Да.",
+            "kz": "Иә.  ",
+            "en": "Required. "
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Нет.",
+            "kz": "Жоқ. ",
+            "en": "Do no required."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Да, так как мотоцикл приближается справа.",
+            "kz": "Иә, өйткені мотоцикл оң жақтан келеді.",
+            "en": "Yes, because the motorcycle is approaching from the right."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1912,
+      "question": {
+        "ru": "«Автопоезд» — это: ",
+        "kz": "«Автопойыз» бұл:  ",
+        "en": "The «Motor –vehicle train/ articulated truck» is:"
+      },
+      "explanation": {
+        "ru": "Автопоезд — это механическое транспортное средство, сцепленное с прицепом (прицепами). (Раздел 1, пункт 2.4 ПДД РК.)",
+        "kz": "Автопойыз — бұл тіркемеге (тіркемелерге) тіркелген механикалық көлік құралы. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.4-тармағы.)",
+        "en": "A road train is a mechanical vehicle coupled to a trailer (trailers). (Section 1, paragraph 2.4 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20231115_0658_ug6iccwim3_video",
+        "size": 264
+      },
+      "explanation_file": {
+        "id": "20231115_0658_hifsafqjlk_video",
+        "size": 108
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Группа транспортных средств, движущаяся непосредственно друг за другом по одной и той же полосе движения. ",
+            "kz": "Бір жүріс жолағында тікелей бірінің артынан бірі қозғалатын көлік құралының тобы. ",
+            "en": "A group of  vehicles moving directly to each other on the same lane."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Механическое транспортное средство, сцепленное с прицепом. ",
+            "kz": "Тіркемеге тіркелген механикалық көлік құралы. ",
+            "en": "A motor vehicle coupled to a trailer."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Механическое транспортное средство, сцепленное с прицепом (прицепами).",
+            "kz": "Тіркемеге (тіркемелерге) тіркелген механикалық көлік құралы.",
+            "en": "A motor vehicle coupled with a trailer (s)."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1914,
+      "question": {
+        "ru": "На каком из рисунков изображена дорога с разделительной полосой? ",
+        "kz": "Қай суретте бөлу жолағы бар жол сипатталған? ",
+        "en": "What picture does indicate a road with a traffic strip?"
+      },
+      "explanation": {
+        "ru": "Разделительная полоса — конструктивно выделенный элемент дороги, разделяющий смежные проезжие части дороги и не предназначенный для движения или остановки безрельсовых транспортных средств и пешеходов, за исключением вынужденной остановки пешеходов при пересечении дороги вне населенного пункта. (Раздел 1, пункт 2.11 ПДД РК.)",
+        "kz": "Бөлу жолағы — жолдың аралас жүру бөлігін бөлетін және жолды елді мекеннен тыс кесіп өткен кезде жаяу жүргіншінің мәжбүрлі тоқтауын қоспағанда, рельссіз көлік құралдарының және жаяу жүргіншілердің жүруіне және тоқтауына арналмаған конструкциялық бөлінген элементі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.11-тармағы.)",
+        "en": "A dividing strip is a structurally allocated road element separating adjacent carriageways of the road and is not intended for the movement or stopping of trackless vehicles and pedestrians, except for the forced stop of pedestrians when crossing the road outside the locality. (Section 1, paragraph 2.11 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0539_2sy1fgl9v3_video",
+        "size": 237
+      },
+      "explanation_file": {
+        "id": "20230829_0539_uwryc22r5a_video",
+        "size": 242
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Только на левом.",
+            "kz": "Тек сол жақта.",
+            "en": "Only on the left."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Только на правом.",
+            "kz": "Тек оң жақта.",
+            "en": "Only on the right."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "На обоих.",
+            "kz": "Екеуінде де.",
+            "en": "Both of them."
+          }
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "question": {
+        "ru": "Что не относится к понятию «Препятствие»?",
+        "kz": "\"Кедергі\" ұғымына не жатпайды?",
+        "en": "What immovable object that does not allow you to continue moving along the lane does not belong to the concept of \"Obstacle\"?"
+      },
+      "explanation": {
+        "ru": "Препятствие для движения — неподвижный\nобъект на полосе движения, не позволяющий\nпродолжить движение по этой полосе. Не\nявляется препятствием затор или\nтранспортное средство, остановившееся на\nэтой полосе движения в соответствии с\nтребованиями Правил. (Раздел 1, пункт 2.39\nПДД РК.)",
+        "kz": "Қозғалыс кедергісі-қозғалыс жолағындағы қозғалмайтын объект, бұл жолақ бойымен жүруге мүмкіндік бермейді. Ереже талаптарына сәйкес осы жолақта тоқтаған кептелісте  көлік құралы кедергі емес. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.39-тармағы.)",
+        "en": "An obstacle to movement is a stationary object in the lane that does not allow you to continue driving in this lane. A traffic jam or a vehicle stopped in this lane in accordance with the requirements of the Rules is not an obstacle. (Section 1, paragraph 2.39 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230513_0657_0nojd95gup_video",
+        "size": 313
+      },
+      "explanation_file": {
+        "id": "20230513_0657_cjgcd1sm2y_video",
+        "size": 524
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Дефект проезжей части.",
+            "kz": " Жүріс бөлігінің ақауы.",
+            "en": "Roadway Defect."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Неисправное или поврежденное транспортное средство.",
+            "kz": " Ақаулы немесе зақымдалған көлік құралы.",
+            "en": "Defective or damaged vehicle."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": "Затор или транспортное средство, остановившееся на этой полосе движения в\nсоответствии с требованиями Правил.",
+            "kz": "Кептеліс немесе Ереже талаптарына сәйкес осы жүру жолағында тоқтаған көлік\nқұралы.",
+            "en": "Vehicle stopped in this lane due to congestion."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1913,
+      "question": {
+        "ru": "На каких рисунках дорожные знаки обозначают главную дорогу? ",
+        "kz": "Жол белгілерінің қай суреттерінде басты жолды білдіреді? ",
+        "en": "In which pictures are the main, road indicate?"
+      },
+      "explanation": {
+        "ru": "Главная дорога — дорога, обозначенная знаками 2.1 «Главная дорога», 2.3.1 «Пересечение со второстепенной дорогой», 2.3.2, 2.3.3 «Примыкание второстепенной дороги» или 5.1 «Автомагистраль» по отношению к пересекаемой (примыкающей), или дорога с твердым покрытием (асфальто- и цементобетон, каменные материалы и тому подобное) по отношению к грунтовой. (Раздел 1, пункт 2.9 ПДД РК.)",
+        "kz": "Басты жол - қиылысатын (қосылатын) жолдарға қатысты 2.1 «Басты жол», 2.3.1 «Екінші дәрежелі жолмен қиылысу», 2.3.2, 2.3.3 «Екінші дәрежелі жолмен қиысу» немесе 5.1 «Автомагистраль»  белгілерімен белгіленген жол немесе қиыршық тас төселген жолдарға қатысты қатты (асфальтталған, цементті-бетондалған, тас материалдар және сол сияқты) жол. (Раздел 1, пункт 2.9, ПДД РК)",
+        "en": "Main road — a road marked with signs 2.1 \"Main road\", 2.3.1 \"Intersection with a secondary road\", 2.3.2, 2.3.3 \"Junction of a secondary road\" or 5.1 \"Motorway\" in relation to the intersected (adjacent), or paved road (asphalt and cement concrete, stone materials, etc.) on in relation to the ground. (Section 1, paragraph 2.9 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240026_0212_kvkcufzrfd_video",
+        "size": 225
+      },
+      "explanation_file": {
+        "id": "20240026_0212_ucaa24n5mz_video",
+        "size": 201
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "На рисунке I. ",
+            "kz": "I суретте. ",
+            "en": "Picture I."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "На рисунках I и II. ",
+            "kz": "I және II суреттерде. ",
+            "en": "Pictures I and II."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "На рисунках I и IV.",
+            "kz": "I және IV суреттерде. ",
+            "en": "Pictures I and IV."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": "На рисунках I, III и IV. ",
+            "kz": "I, III және IV суреттерде. ",
+            "en": "Pictures I, III and IV."
+          }
+        },
+        {
+          "id": 5,
+          "is_correct": false,
+          "title": {
+            "ru": "На всех рисунках.",
+            "kz": "Барлық суреттерде.",
+            "en": "In all pictures."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1924,
+      "question": {
+        "ru": "«Обочина» — это: ",
+        "kz": "«Жол жиегі» - бұл: ",
+        "en": "«Roadside» is:"
+      },
+      "explanation": {
+        "ru": "Обочина — элемент дороги, примыкающий непосредственно к проезжей части и предназначенный для обеспечения устойчивости земляного полотна, повышения безопасности дорожного движения, организации движения пешеходов и велосипедистов, а также использования при чрезвычайных ситуациях. (Раздел 1, пункт 2.26 ПДД РК.)",
+        "kz": "Жолдың жиегі — жолдың жүру бөлігімен тікелей қосылатын және жер қыртысының тұрақтылығын қамтамасыз етуге, жол жүрісі қауіпсіздігін арттыруға, жаяу жүргіншілер мен велосипедшілердің қозғалысын ұйымдастыруға, сондай-ақ төтенше жағдайлар кезінде пайдалануға арналған жолдың элементі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.26-тармағы.)",
+        "en": "Curb is a road element adjacent directly to the carriageway and designed to ensure the stability of the roadbed, improve road safety, organize the movement of pedestrians and cyclists, as well as use in emergency situations. (Section 1, paragraph 2.26 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0739_hcfcdup3ys_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0739_6fclg1mabo_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Элемент дороги, примыкающий непосредственно к проезжей части и предназначенный для обеспечения устойчивости земляного полотна, повышения безопасности дорожного движения, организации движения пешеходов и велосипедистов, а также использования при чрезвычайных ситуациях.",
+            "kz": "Тікелей жүріс бөлігіне жалғасатын және жердің үстіңгі қабатының тұрақтылығын қамтамасыз етуге, жол жүрісі қауіпсіздігін арттыруға, жаяу жүргіншілер мен велосипедшілердің қозғалысын ұйымдастыруға, сондай-ақ төтенше жағдайлар кезінде пайдалануға арналған жол элементі. ",
+            "en": "The part of the  road adjoining directly to the road and intended for support of stability of the road bed, increase of the traffic safety, organization of the traffic of pedestrians and cyclists and also for emergency situations."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Элемент дороги, предназначенный для движения пешеходов, примыкающий к проезжей части или отделенной от неё газоном.",
+            "kz": "Жолдың жүру бөлігіне қосылған немесе одан газонмен бөлінген, жаяу жүргіншінің жүруіне арналған жол бөлігі. ",
+            "en": "Road element designated for pedestrian traffic, adjacent to the roadway or separated from it lawn."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Элемент дороги, предназначенный для движения безрельсовых транспортных средств.",
+            "kz": "Рельссіз көлік құралдарының жүруіне арналған жол элементі.",
+            "en": "Road element intended for the movement of trackless vehicles."
+          }
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "question": {
+        "ru": "Что из нижеперечисленного соответствует термину «Опережение»?",
+        "kz": "Төмендегілердің қайсысы «озып шығу»терминіне сәйкес келеді?",
+        "en": "Which of the following corresponds to the term \"advance\"?"
+      },
+      "explanation": {
+        "ru": "Опережение — это движение транспортного средства со скоростью, большей чем скорость движения транспортного средства, движущегося по соседней полосе, одного направления. (Раздел1 , пункт 2.52 ПДД РК.)",
+        "kz": "Озып шығу-бұл көлік құралының бір бағыттағы көршілес жолақта қозғалатын көлік құралының жылдамдығынан үлкен жылдамдықпен жүруі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.52-тармағы.)\n",
+        "en": "Advance is the movement of a vehicle at a speed greater than the speed of a vehicle moving in an adjacent lane in one direction. (Section 1, paragraph 2.52 Traffic regulations of the Republic of Kazakhstan.) "
+      },
+      "question_file": {
+        "id": "20230715_0609_j9myy3sm2t_video",
+        "size": 352
+      },
+      "explanation_file": {
+        "id": "20230513_0651_cc0eqih6wz_video",
+        "size": 236
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Движение транспортного средства со скоростью, превышающей скорость движущегося навстречу транспортного средства.",
+            "kz": "Көлік құралын қарсы келе жатқан көліктің жылдамдығынан жоғары жылдамдықпен жүргізу.",
+            "en": "Driving a vehicle at a speed greater than the speed of an oncoming vehicle."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Объезд стоящего транспортного средства связанный с выездом на попутную полосу движения.",
+            "kz": "Өтпелі жолаққа шығумен байланысты қозғалмайтын көліктің айналма жолы.",
+            "en": "Detour of a stationary vehicle associated with entering a passing lane."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Движение транспортного средства со скоростью, превышающей скорость попутно движущегося транспортного средства.",
+            "kz": "Көлік құралының бір бағытта, көрші жолақпен жүріп келе жатқан көлік құралының жүріс жылдамдығынан жоғары жылдамдықпен жүруі.",
+            "en": "Driving a vehicle at a speed greater than the speed of a passing vehicle."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1920,
+      "question": {
+        "ru": "«Препятствие для движения» — это: ",
+        "kz": "«Жүруге кедергі» - бұл:",
+        "en": "«Obstacle to movement» is:"
+      },
+      "explanation": {
+        "ru": "Препятствие для движения — неподвижный объект на полосе движения, не позволяющий продолжить движение по этой полосе. Не является препятствием затор или транспортное средство, остановившееся на этой полосе движения в соответствии с требованиями Правил. (Раздел 1, пункт 2.39 ПДД РК.)",
+        "kz": "Қозғалыс кедергісі - осы жолақ бойымен жүруді жалғастыруға мүмкіндік бермейтін жүру жолағындағы қозғалмайтын объект. Кептеліс немесе осы жүру жолағында Қағидалардың талаптарына сәйкес тоқтаған көлік құралы кедергі болып табылмайды. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.39-тармағы.)",
+        "en": "An obstacle to movement is a stationary object in the lane that does not allow you to continue driving in this lane. A traffic jam or a vehicle stopped in this lane in accordance with the requirements of the Rules is not an obstacle. (Section 1, paragraph 2.39 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0710_wgpzupxin6_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0710_5uxneirkoy_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Затор или транспортное средство, остановившееся на этой полосе движения в соответствии с требованиями Правил. ",
+            "kz": "Кептеліс немесе Ережелер талаптарына сәйкес осы жүру жолағында аялдаған көлік құралы. ",
+            "en": "Jam or stationary in this lane vehicle  in accordance with the requirements of Regulation."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Внезапное изменение в дорожном движении, угрожающее его безопасности и требующее изменения скорости и (или) маневрирования транспортного средства. ",
+            "kz": "Оның қауіпсіздігіне қауіп төндіретін және көлік құралының жылдамдықты және (немесе) маневр жасауын өзгертуді талап ететін кенеттен өзгерістер. ",
+            "en": "Sudden change in traffic, threatening its security and requires a change in the speed and (or) maneuvering the vehicle."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Неподвижный объект на полосе движения, не позволяющий продолжить движение по этой полосе.",
+            "kz": "Осы жолақ бойымен жүруді жалғастыруға мүмкіндік бермейтін жүру жолағындағы қозғалмайтын объект.",
+            "en": "Fixed object in the lane that does not allow to continue  in this lane."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1919,
+      "question": {
+        "ru": "«Тротуар» — это: ",
+        "kz": "«Тротуар» бұл: ",
+        "en": "«Pavement» is: "
+      },
+      "explanation": {
+        "ru": "Тротуар — часть дороги, предназначенная для движения пешеходов, примыкающая к проезжей части дороги или отделенная от нее газоном. (Раздел 1, пункт 2.59 ПДД РК.)",
+        "kz": "Тротуар- жолдың жүріс бөлігіне іргелес немесе одан көгалмен бөлінген жаяу жүргіншілер қозғалысына арналған жол бөлігі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.59-тармағы.)",
+        "en": "Sidewalk — a part of the road intended for pedestrian traffic, adjacent to the carriageway of the road or separated from it by a lawn. (Section 1, paragraph 2.59 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0701_zzo31rhvil_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230829_0701_2mqvi06qbk_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Грунтовая или укрепленная покрытием полоса между бровкой (или бордюрным камнем) и краем проезжей части, на одном с ней уровне. ",
+            "kz": "Жолдың жүру бөлігінің жиегі (немесе бордюр тасы) мен шеті арасында онымен бір деңгейдегі топырақты немесе жабынмен бекітілген жолақ. ",
+            "en": "Ground or reinforced coated strip between the curve of (or curbs) and the edge of the carriageway on the same level with it."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Элемент дороги, предназначенный для движения пешеходов, примыкающий к проезжей части или отделенной от неё газоном.",
+            "kz": "Жолдың жүру бөлiгiне қосылған немесе одан газонмен бөлiнген, жаяу жүргiншiнiң жүруіне арналған жол бөлігі. ",
+            "en": "Road element designated for pedestrian traffic, adjacent to the carriageway or a separated from it lawn."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Элемент дороги, предназначенный для движения безрельсовых транспортных средств.",
+            "kz": "Рельссіз көлік құралдарының жүрісіне арналған жол бөлігі.",
+            "en": "Road element intended for the movement of trackless vehicles."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1911,
+      "question": {
+        "ru": "«Дорожно-транспортное происшествие» — это:",
+        "kz": "«Жол-көлік оқиғасы» - бұл:  ",
+        "en": "«Traffic accident» is:"
+      },
+      "explanation": {
+        "ru": "Дорожно-транспортное происшествие — событие, возникшее в процессе движения по дороге транспортного средства и с его участием, повлекшее причинение вреда здоровью, смерть человека, повреждение транспортных средств, сооружений, грузов либо иной материальный ущерб. (Раздел 1, пункт 2.32 ПДД РК.)",
+        "kz": "Жол-көлік оқиғасы - көлік құралының жолдағы қозғалысы процесінде және оның қатысуымен туындаған, адамның денсаулығына зиян келтіруге, өліміне, көлік құралдарының, құрылыстардың, жүктердің бүлінуіне не өзге материалдық залалға әкеп соққан оқиға. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.32-тармағы.)",
+        "en": "A traffic accident is an event that occurred during the movement of a vehicle on the road and with its participation, which caused harm to health, death of a person, damage to vehicles, structures, cargo or other material damage. (Section 1, paragraph 2.32 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20231115_0659_024r2z3qgc_video",
+        "size": 427
+      },
+      "explanation_file": {
+        "id": "20231115_0659_vkk00cmfig_video",
+        "size": 257
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Событие, возникшее в процессе движения по дороге транспортного средства и с его участием, повлекшее причинение вреда здоровью, смерть человека. ",
+            "kz": "Көлiк құралының жолдағы қозғалысы процесінде және оның қатысуымен туындаған, адамның денсаулығына зиян келтіруге, өліміне әкеп соқтырған оқиға. ",
+            "en": "An event  which occurs  while  going  the vehicle  on the  road  and with its participation resulting personal injury, death of a person."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Событие, возникшее в процессе движения по дороге транспортного средства и с его участием, повлекшее повреждение транспортных средств, сооружений, грузов или иной материальный ущерб. ",
+            "kz": "Көлiк құралының жолдағы қозғалысы процесінде және оның қатысуымен болған, көлік құралдарының, құрылыстардың, жүктердің бүлінуіне не өзге де материалдық залалға әкеп соқтырған  оқиға. ",
+            "en": "An event  which occurs  while  going  the vehicle  on the  road  and with its participation resulting damage of vehicles, buildings, goods or other property."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Событие, возникшее в процессе движения по дороге транспортного средства и с его участием, повлекшее причинение вреда здоровью, смерть человека, повреждение транспортных средств, сооружений, грузов или иной материальный ущерб.",
+            "kz": "Көлiк құралының жолдағы қозғалысы процесінде және оның қатысуымен туындаған, адамның денсаулығына зиян келтіруге, өліміне, көлік құралдарының, құрылыстардың, жүктердің бүлінуіне не өзге материалдық залалға әкеп соққан оқиға.",
+            "en": "An event  which occurs  while  going  the vehicle  on the  road  and with its participation resulting personal injury, death of a person , damage of vehicles, buildings, goods or other property."
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "question": {
+        "ru": "«Маршрутное транспортное средство» - это:",
+        "kz": "«Маршруттық көлік құралы» бұл:",
+        "en": "\"Route vehicle\" means:"
+      },
+      "explanation": {
+        "ru": "Маршрутное транспортное средство — транспортное средство общего пользования (автобус, троллейбус, трамвай), предназначенное для перевозки по дорогам пассажиров и движущееся по установленному маршруту с обозначенными остановочными пунктами (остановками). (Раздел 1, пункт 2.47 ПДД РК.)",
+        "kz": "Маршруттық көлік құралы — жол бойымен жолаушыларды тасымалдауға арналған және белгіленген аялдама пункттері (аялдамалары) бар белгіленген маршрутпен жүретін жалпы пайдаланудағы көлік құралы (автобус, троллейбус, трамвай). (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.47-тармағы.)",
+        "en": "A fixed—route vehicle is a public transport vehicle (bus, trolleybus, tram) intended for the transportation of passengers on roads and moving along a fixed route with designated stopping points (stops). (Section 1, paragraph 2.47 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230715_0602_4x31rpcpel_video",
+        "size": 427
+      },
+      "explanation_file": {
+        "id": "20230513_0705_mvalkln5dr_video",
+        "size": 313
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Автобусы, троллейбусы, трамваи, предназначенные для перевозки пассажиров.",
+            "kz": "Жолаушыларды тасымалдауға арналған автобустар, троллейбустар, трамвайлар.",
+            "en": "Buses, trolleybuses, trams for passenger transportation."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Транспортные средства общего пользования, предназначенные для перевозки пассажиров.",
+            "kz": "Жолаушыларды тасымалдауға арналған жалпы пайдаланымдағы көлік құралы.",
+            "en": "Public transport for passenger transportation."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Транспортные средства общего пользования, предназначенные для перевозки по дорогам пассажиров по установленному маршруту с обозначенными остановочными пунктами.",
+            "kz": "Жол  бойымен  жолаушыларды тасымалдауға арналған және белгіленген аялдама  пункттері  аялдамалары)  бар белгіленген маршрутпен жүретін жалпы пайдаланудағы  көлік  құралы  (автобус, троллейбус, трамвай).",
+            "en": "General purpose vehicles intended for the transportation of passengers along roads along a route marked with marked stops."
+          }
+        }
+      ]
+    }
+  ]
+}
