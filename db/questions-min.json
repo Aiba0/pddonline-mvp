@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "id": 649,
+      "question": {
+        "ru": "\"Велосипед\" - это:",
+        "kz": "\"Велосипед\" - бұл:",
+        "en": "The bike is:"
+      },
+      "explanation": {
+        "ru": "Велосипед – транспортное средство, имеющее два колеса или более (кроме кресел-колясок для лиц с инвалидностью) и приводимое в движение мускульной силой людей, находящихся на нем. (Раздел 1, пункт 2.12 ПДД РК.)",
+        "kz": "Велосипед-екі немесе одан да көп дөңгелегі бар (мүгедектерге арналған кресло-арбалардан басқа) және ондағы адамдардың бұлшықет күшімен қозғалысқа келтірілетін көлік құралы. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.12-тармағы.)",
+        "en": "A bicycle is a vehicle having two or more wheels (except wheelchairs for persons with disabilities) and driven by the muscular strength of the people on it. (Section 1, paragraph 2.12 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20220806_0914_kwttb5slc2_video",
+        "size": 797
+      },
+      "explanation_file": {
+        "id": "20220806_0914_at0ih6593c_video",
+        "size": 823
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Транспортное средство, имеющее два колеса или более (кроме кресел-колясок для лиц с инвалидностью) и приводимое в движение мускульной силой людей, находящихся на нем.",
+            "kz": "Екі немесе одан да көп дөңгелегі бар (мүгедектігі бар адамдарға арналған кресло-арбалардан басқа) және оның үстіндегі адамның бұлшықет күшімен қозғалысқа келетін\nкөлік құралы.",
+            "en": "A vehicle that has two or more wheels and is driven by the muscular force of a person on it."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Двухколесное механическое транспортное средство.",
+            "kz": "Екі дөңгелекті механикалық  көлік.",
+            "en": "Two-wheeled mechanical vehicle."
+          }
+        },
+        {
+          "id": 5,
+          "is_correct": false,
+          "title": {
+            "ru": "Колёсное транспортное средство, приводимое в движение мускульной силой человека через ножные педали или двигатель.",
+            "kz": "Аяқ педальдары немесе қозғалтқыш арқылы адамның бұлшықет күшімен қозғалысқа\nкелетін дөңгелекті көлік құралы.",
+            "en": "A wheeled vehicle is driven by the muscular force of a person through foot pedals or an engine."
+          }
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "question": {
+        "ru": "«Автомагистраль» - это:",
+        "kz": "«Автомагистраль»  - бұл:",
+        "en": "\"Highway\" is:"
+      },
+      "explanation": {
+        "ru": "Автомагистраль – это дорога, специально построенная или реконструированная в соответствии с проектом для движения транспортных средств, которая не обслуживает придорожные владения. Доступ на нее возможен только с других дорог через развязки в разных уровнях. Эта дорога: имеет раздельные проезжие части для движения в разных направлениях, отделенные друг от друга разделительной полосой, не предназначенной для движения; не имеет пересечений на одном уровне с другими дорогами, железнодорожными и трамвайными путями и пешеходными дорожками. (Раздел 1, пункт 2.1 ПДД РК.)",
+        "kz": "Автомагистраль — көлік құралдарының жүруі үшін жобаға сәйкес арнайы салынған немесе реконструкцияланған, жол бойындағы иеліктерге қызмет көрсетпейтін жол. Оған тек басқа жолдардан ғана әртүрлі деңгейлердегі жол айрықтары арқылы өтуге болады. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.1-тармағы.)",
+        "en": "A motorway is a road specially constructed or reconstructed according to a project for the movement of vehicles that does not serve roadside properties. Access to it is possible only from other roads through interchanges at different levels. This road: has separate carriageways for traffic in different directions, separated from each other by a dividing strip not intended for traffic; has no intersections at the same level with other roads, railway and tram tracks and pedestrian paths. (Section 1, paragraph 2.1 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20220806_0553_x3aywv0nvo_video",
+        "size": 298
+      },
+      "explanation_file": {
+        "id": "20220806_0553_la0cy0inkq_video",
+        "size": 230
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Поверхность искусственного сооружения, обустроенная и используемая для движения \nтранспортных средств и пешеходов. ",
+            "kz": "Көлік құралдары мен жаяу жүргіншілердің қозғалуына жайғасытырлған және пайдаланылатын жасанды құрылыстың беті.  ",
+            "en": "The surface of artificial structures used and used for the movement of vehicles and pedestrians.   "
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": " Дорога, специально построенная или реконструированная в соответствии с проектом для\nдвижения транспортных средств, которая не обслуживает придорожные владения. Доступ на нее возможен только с других дорог через развязки в разных уровнях.",
+            "kz": "Көлік құралдарының жүруі үшін жобаға сәйкес арнайы салынған немесе реконструкцияланған, жол бойындағы иеліктерге қызмет көрсетпейтін жол. Оған тек басқа жолдардан ғана әртүрлі деңгейлердегі жол айрықтары арқылы өтуге болады.",
+            "en": "A road specially built for the movement of vehicles that does not serve the property near the road."
+          }
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "question": {
+        "ru": "Что означает термин «Ограниченная видимость»?",
+        "kz": "«Шектеулі көріну» термині нені білдіреді?",
+        "en": "What does the term \"Limited visibility\" mean?"
+      },
+      "explanation": {
+        "ru": "Ограниченная видимость — это видимость водителем дороги менее 100 метров в направлении движения, ограниченная рельефом местности, геометрическими параметрами дороги, растительностью, строениями, сооружениями или иными объектами, в том числе транспортными средствами. (Раздел 1, пункт 2.64 ПДД РК.)",
+        "kz": "Шектеулі көріну-бұл жер бедерімен, жолдың геометриялық параметрлерімен, өсімдіктермен, құрылыстармен, құрылыстармен немесе басқа объектілермен, соның ішінде көлік құралдарымен шектелген қозғалыс бағытында 100 метрден аз жол жүргізушісінің көрінуі. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.64-тармағы.)\n",
+        "en": "Limited visibility is the driver's visibility of the road less than 100 meters in the direction of movement, limited by the terrain, geometric parameters of the road, vegetation, buildings, structures or other objects, including vehicles. (Section 1, paragraph 2.64 Traffic regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230715_0537_gzcivz0e0v_video",
+        "size": 321
+      },
+      "explanation_file": {
+        "id": "20230715_0537_z3f60llgfa_video",
+        "size": 321
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": true,
+          "title": {
+            "ru": "Ограниченная видимость — видимость водителем дороги менее 100 метров в направлении движения, ограниченная рельефом местности, геометрическими параметрами дороги, растительностью, строениями, сооружениями или иными объектами, в том числе транспортными\nсредствами.",
+            "kz": "Жүргізушіге жергілікті жердің бедерімен, жолдың геометриялық параметрлерімен, өсімдіктермен, салынған үйлермен, құрылыстармен немесе өзге де объектілермен, оның ішінде көлік құралдарымен шектелген жүріс бағытындағы жолдың 100 метрден кем көрінуі.",
+            "en": "Limited visibility — visibility by the driver of the road less than 100 meters in the direction\nof movement, limited by the terrain, geometric parameters of the road,\nvegetation, buildings, structures or other objects, including\nvehicles."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость водителем дороги менее 300 м в условиях тумана, дождя, снегопада, а также в сумерки.",
+            "kz": "Жүргізушінің жолды көру мүмкіндігі тұманда, жаңбырда, қарда, сондай-ақ кешқұрым\nуақытта 300 м-ден аз.",
+            "en": "Visibility of the road by the driver is less than 300 m in conditions of fog, rain, snowfall, as well as at\ndusk."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость водителем дороги менее 150 м в ночное время.",
+            "kz": "Жүргізушінің түнгі уақытта жолды көру мүмкіндігі 150 м-ден аз.",
+            "en": "Visibility of the road by the driver is less than 150 m at night."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": false,
+          "title": {
+            "ru": "Видимость водителем дороги во всех перечисленных случаях.",
+            "kz": "Жоғарыда аталған барлық жағдайларда жолдың жүргізушіге көрінуі.",
+            "en": "Visibility of the road by the driver in all the listed cases."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1917,
+      "question": {
+        "ru": "Разрешается ли Вам приступить к выполнению поворота направо в данной ситуации? ",
+        "kz": "Сізге осы жағдайда оңға бұрылуды орындауға кірісуге рұқсат етіледі ме? ",
+        "en": "Are you allowed to make a right turn in this situation?"
+      },
+      "explanation": {
+        "ru": "Перед Вами установлен дорожный знак 2.4 «Уступите дорогу». Водитель уступает дорогу транспортным средствам, движущимся по пересекаемой дороге. Уступить дорогу (не создавать помех) — означает, что участник дорожного движения не начинает, не возобновляет или не продолжает движение, не осуществляет какой-либо маневр, если это может вынудить других участников движения, имеющих по отношению к нему преимущество, изменить направление движения или скорость. (Раздел 1, пункт 2.25 ПДД РК. Дорожные знаки. Приложение 1 к ПДД РК.)",
+        "kz": "Сіздің алдыңызда 2.4 «Жол беріңіз» белгісі орнатылған. Жүргізуші қиылысатын жолмен жүретін көліктерге жол береді. Жол беріңіз(кедергі жасамаңыз) —  бұл жол қозғалысына қатысушының қозғалысты бастамайтынын, жаңартпйатынын немесе жалғастырмайтынын білдіреді, егер бұл оған қатысты артықшылығы бар басқа қозғалысқа қатысушыларды қозғалыс бағытын немесе жылдамдығын өзгертуге мәжбүр етуі мүмкін болса, ешқандай маневр жасамайды. (ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.25-тармағы. Жол белгілері. ҚР жол ережесіне 1-қосымша.)",
+        "en": "A road sign 2.4 \"Give way\" is installed in front of you. The driver gives way to vehicles moving along the intersected road. Give way (do not interfere) — means that a road user does not start, does not resume or does not continue driving, does not perform any maneuver if this may force other road users who have an advantage over him to change the direction of movement or speed. (Section 1, paragraph 2.25 Traffic regulations of the Republic of Kazakhstan. Road signs. Appendix 1 to the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20240214_1412_pnzmzcfrph_video",
+        "size": 644
+      },
+      "explanation_file": {
+        "id": "20240214_1412_kvzxug1pkx_video",
+        "size": 1721
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Разрешается.",
+            "kz": "Рұқсат етіледі. ",
+            "en": "Permitted."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": true,
+          "title": {
+            "ru": "Разрешается, если это не создает помех движению грузового автомобиля.",
+            "kz": "Рұқсат етіледі, егер бұл жүк көлікке кедергі туғызбаса. ",
+            "en": "It is allowed if it does not interfere with the movement of the truck."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Разрешается, если водитель грузового автомобиля подал звуковой сигнал.",
+            "kz": "Рұқсат етіледі, егер жүк көлік жүргізушісі дыбыстық сигнал берген болса.",
+            "en": "It is allowed if the truck driver beeps."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1908,
+      "question": {
+        "ru": "Укажите количество полос движения на данном участке дороги:",
+        "kz": "Көрсетілген жол учаскесінде қанша жүру жолағы бар екенін көрсетіңіз: ",
+        "en": "Name the quantity of lanes in the road section:"
+      },
+      "explanation": {
+        "ru": "В данном случае количество полос движения для безрельсовых транспортных средств определяется горизонтальной разметкой 1.5. (Раздел 9, пункт 60 ПДД РК. Разметка дорожная и ее характеристики. Приложение 2 к ПДД РК.)",
+        "kz": "Бұл жағдайда рельссіз көлік құралдары үшін жолақтардың саны 1.5 көлденең таңбамен  анықталады . (ҚР Жол қозғалысы ережелерінің 9-бөлімі, 60-тармағы. Жол белгілері және оның сипаттамалары. ҚР жол ережесіне 2-қосымша.)",
+        "en": "In this case, the number of lanes for trackless vehicles is determined by horizontal marking 1.5. (Section 9, paragraph 60 Traffic regulations of the Republic of Kazakhstan. Road markings and their characteristics. Appendix 2 to the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230829_0503_putgglimqv_video",
+        "size": 326
+      },
+      "explanation_file": {
+        "id": "20230829_0503_g04udswojo_video",
+        "size": 204
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Одна.",
+            "kz": "Бір. ",
+            "en": "One."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Две.",
+            "kz": "Екі. ",
+            "en": "Two."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": false,
+          "title": {
+            "ru": "Три.",
+            "kz": "Үш. ",
+            "en": "Three."
+          }
+        },
+        {
+          "id": 4,
+          "is_correct": true,
+          "title": {
+            "ru": "Четыре.",
+            "kz": "Төрт. ",
+            "en": "Four."
+          }
+        },
+        {
+          "id": 5,
+          "is_correct": false,
+          "title": {
+            "ru": "Пять.",
+            "kz": "Бес.",
+            "en": "Five."
+          }
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "question": {
+        "ru": "Что означает требование \"Уступить дорогу\"?",
+        "kz": "\"Жол беру\" талабы нені білдіреді?",
+        "en": "What does the requirement of permissiveness mean?"
+      },
+      "explanation": {
+        "ru": "Уступить дорогу (не создавать помех) — означает, что участник дорожного движения не начинает, не возобновляет или не продолжает движение, не осуществляет какой-либо маневр, если это может вынудить других участников движения, имеющих по отношению к нему преимущество, изменить направление движения или скорость.  (Раздел 1, пункт 2.25, ПДД РК.)",
+        "kz": "Жол беру (кедергі туғызбау) — жол жүрісіне қатысушы, егер бұл оған қатысты артықшылығы бар жол жүрісіне басқа қатысушылардың жүру бағытын немесе жылдамдығын өзгертуге мәжбүр етуі мүмкін болса, жүруді бастамайтынын, қайта бастамайтынын немесе жалғастырмайтынын, қандай да болмасын маневрді жүзеге асырмайтынын білдіреді.(ҚР Жол қозғалысы ережелерінің 1-бөлімі, 2.25-тармағы.)",
+        "en": "According to the rules of the conditions of admission (non-interference), the driver should not initiate, restart or continue any movement if the driver can force other participants of the movement to change the direction of movement or speed in relation to him.(Section 1, paragraph 2.25 of the Traffic Regulations of the Republic of Kazakhstan.)"
+      },
+      "question_file": {
+        "id": "20230513_0659_zywlun6lac_video",
+        "size": 281
+      },
+      "explanation_file": {
+        "id": "20230513_0700_tmwtjtkhrf_video",
+        "size": 253
+      },
+      "explanation2_file": null,
+      "explanation2_kz_file": null,
+      "answers": [
+        {
+          "id": 1,
+          "is_correct": false,
+          "title": {
+            "ru": "Водители обязаны остановить транспортное средство только при наличии дорожного знака «Уступите дорогу».",
+            "kz": "Жүргізушілер «Жол беріңіз» жол белгісі болған кезде ғана көлік құралын тоқтатуы керек.",
+            "en": "Drivers should stop only when there is a\" give way \" road sign."
+          }
+        },
+        {
+          "id": 2,
+          "is_correct": false,
+          "title": {
+            "ru": "Водители обязаны обязательно остановиться, чтобы пропустить остальных участников движения.",
+            "kz": "Басқа жол қозғалысына қатысушыларды өткізу үшін жүргізушілер міндетті түрде тоқтауы\nкерек.",
+            "en": "Drivers must always stop to allow other road users to pass."
+          }
+        },
+        {
+          "id": 3,
+          "is_correct": true,
+          "title": {
+            "ru": "Водители обязаны не начинать, возобновлять или продолжать движение, осуществлять какой-либо маневр, если это может вынудить других участников движения, имеющих по отношению к ним преимущество, изменить направление движения или скорость.",
+            "kz": "Егер бұл оған қатысты басымдыққа ие басқа да жол қоғалысына қатысушыларды жүру бағытын\nнемесе жылдамдығын өзгертуге мәжбүрлейтін болса, жол жүрісіне қатысушы қозғалысты\nбастамауға, қайта жүрмеуге, жалғастырмауға немесе қандай да маневрді жүзеге асырмауға тиіс.",
+            "en": "Drivers should not start, continue, or continue driving, or perform any manipulations that force other road users who have an advantage over you to change direction or speed."
+          }
+        }
+      ]
+    }
+  ]
+}
