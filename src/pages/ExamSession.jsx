@@ -200,8 +200,11 @@ export default function ExamSession() {
 
                 {current.question_file && (
                     <video
-                        src={current.question_file}
-                        controls
+                        // src={current.question_file}
+                        src="https://kulager-auto.kz/storage/questions/video/KaEXJTq1A1pRzpkS8JM5GNAXJaydMpB3HELHedPu.mp4"
+                        autoPlay
+                        loop
+                        muted
                         className="mb-4 w-full rounded max-h-[280px] object-contain"
                     />
                 )}
