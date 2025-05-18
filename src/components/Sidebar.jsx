@@ -6,7 +6,7 @@ import logo from "../assets/logo.png";
 export default function Sidebar() {
     const menu = [
         { key: "dashboard", label: "Главная", path: "/main" },
-        { key: "courses", label: "Обучение", path: "/courses" },
+        { key: "courses", label: "Мое обучение", path: "/courses" },
         { key: "chat", label: "ИИ-чат", path: "/chat" },
         { key: "tests", label: "Тестирование", path: "/exam" },
         { key: "favorites", label: "Избранные вопросы", path: "/favorites" },
