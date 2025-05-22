@@ -6,7 +6,27 @@ const Intro = () => (
         <div className="w-full max-w-8xl px-2 md:px-4">
             <div className="bg-[#1769E0] rounded-[32px] flex flex-col md:flex-row justify-between p-8 md:p-16 shadow-xl relative overflow-hidden gap-8 md:gap-0">
 
-                <div className="flex-1 flex flex-col justify-between md:text-left text-white z-10">
+                {/* Навигация сверху */}
+                <div className="absolute left-0 top-0 w-full flex items-center justify-between px-8 md:px-16 py-6 z-20">
+                    <div className="flex items-center gap-8">
+                        <nav className="hidden md:flex gap-7">
+                            <a href="#whyus" className="text-white/90 hover:text-yellow-300 transition-colors text-base font-medium">Почему мы?</a>
+                            <a href="#demo" className="text-white/90 hover:text-yellow-300 transition-colors text-base font-medium">Тестирование</a>
+                            <a href="#pricing" className="text-white/90 hover:text-yellow-300 transition-colors text-base font-medium">Тарифы</a>
+                            <a href="#faq" className="text-white/90 hover:text-yellow-300 transition-colors text-base font-medium">Вопросы и ответы</a>
+                            <a href="#footer" className="text-white/90 hover:text-yellow-300 transition-colors text-base font-medium">Контакты</a>
+                        </nav>
+                    </div>
+                    <a
+                        href="/auth"
+                        className="px-6 py-2 bg-white text-[#1769E0] rounded-xl font-semibold text-base shadow-none hover:bg-yellow-300 hover:text-gray-800 transition-colors duration-200"
+                    >
+                        Войти
+                    </a>
+                </div>
+
+                {/* Основной контент */}
+                <div className="flex-1 flex flex-col justify-between md:text-left text-white z-10 mt-24 md:mt-16">
                     <h1 className="text-3xl md:text-5xl font-black leading-tight mb-6 tracking-wide ">
                         PDD online <p className="text-xl md:text-2xl leading-tight tracking-wide font-medium">-
                         инновационная онлайн автошкола</p>
@@ -33,10 +53,10 @@ const Intro = () => (
                         className="
               object-contain
               w-full
-              max-w-[480px]    // Машина большая на десктопе!
+              max-w-[480px]
               h-auto
-              md:max-w-[680px] // На очень широких экранах ещё больше
-              sm:max-w-[340px] // На мобилке не выходит за пределы
+              md:max-w-[680px]
+              sm:max-w-[340px]
               drop-shadow-xl
               "
                         style={{ minWidth: 0 }}

@@ -18,7 +18,7 @@ export default function Sidebar() {
             <div className="flex items-center mb-8">
                 <img className="w-[40px] h-[40px] mr-2" src={logo} alt="logo" />
                 <div className="text-[#007AFF] font-bold text-[18px] leading-none">
-                    PDDonline.kz
+                    pdd2025.kz
                 </div>
             </div>
 

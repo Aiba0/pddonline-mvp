@@ -1,5 +1,5 @@
 const AdvantageBlock = ({ title, subtitle, desc, img, imgLeft }) => (
-    <section className={`w-full flex justify-center py-8 md:py-16 `}>
+    <section id="whyus" className={`w-full flex justify-center py-8 md:py-16 `}>
         <div className={`w-full max-w-6xl px-4 md:px-8 flex flex-col md:flex-row ${imgLeft ? 'md:flex-row-reverse' : ''} items-center gap-8`}>
             <div className="flex-1 flex justify-center mb-6 md:mb-0">
                         <img

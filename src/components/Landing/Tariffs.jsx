@@ -1,7 +1,7 @@
 const tariffs = [
     {
         name: "Базовый",
-        price: "Бесплатно",
+        price: "990 ₸ / месяц",
         features: [
             "Доступ ко всем экзаменационным тестам",
             "Актуальные вопросы 2025 года",
@@ -12,19 +12,20 @@ const tariffs = [
     },
     {
         name: "Стандарт",
-        price: "2 990 ₸ / месяц", // Пример, поменяй!
+        price: "4 990 ₸ / месяц",
         features: [
             "Все из тарифа «Базовый»",
             "3D видеокурс по всем темам ПДД",
             "Пошаговые объяснения от инструкторов",
             "Учись с наглядными примерами",
+            "Сертификат об окончаний автошколы"
         ],
         button: { text: "Перейти на Стандарт", href: "/register" },
         popular: true, // Ставим акцент
     },
     {
         name: "Премиум",
-        price: "4 990 ₸ / месяц", // Пример, поменяй!
+        price: "9 990 ₸ / месяц", // Пример, поменяй!
         features: [
             "Все из тарифа «Стандарт»",
             "ИИ-чат 24/7: ответы на любые вопросы",
@@ -39,10 +40,10 @@ const tariffs = [
 
 export default function Tariffs() {
     return (
-        <section className="w-full flex justify-center py-20 bg-gray-50">
+        <section id="pricing" className="w-full flex justify-center py-20 bg-gray-50">
             <div className="max-w-7xl w-full px-4">
                 <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-                    Тарифы для любого уровня
+                    Выберите свой тариф
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {tariffs.map((tariff, idx) => (

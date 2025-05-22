@@ -52,7 +52,7 @@ export default function DrivingPractice() {
 
     const whatsappLink = school
         ? `https://wa.me/${school.phone.replace("+", "")}?text=${encodeURIComponent(
-            `Здравствуйте! Я записался(ась) на пробное вождение через PDDonline.kz.\nГород: ${city}\nАвтошкола: ${school.name}\nДата: ${selectedDate?.toLocaleDateString("ru-RU")}`
+            `Здравствуйте! Я записался(ась) на пробное вождение через pdd2025.kz.\nГород: ${city}\nАвтошкола: ${school.name}\nДата: ${selectedDate?.toLocaleDateString("ru-RU")}`
         )}`
         : "#";
 

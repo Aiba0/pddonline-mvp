@@ -53,7 +53,7 @@ const DemoExam = () => {
 
     if (!started) {
         return (
-            <div className="w-full flex flex-col items-center justify-center py-12 bg-blue-50 rounded-2xl shadow-md mb-8">
+            <div id="demo" className="w-full flex flex-col items-center justify-center py-12 bg-blue-50 rounded-2xl shadow-md mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-[#1769E0] mb-4 text-center">
                     Пройдите пробный онлайн тест по ПДД
                 </h2>
@@ -76,7 +76,6 @@ const DemoExam = () => {
         if (score === questions.length) promoText = "Вы отлично подготовлены! Хотите быть уверены в результате — выберите полный курс!";
         else if (score >= questions.length - 1) promoText = "Остался всего один шаг до идеального результата. Прокачайте знания с нашими видеоуроками!";
         else if (score <= 2) promoText = "Попробуйте обучение в нашем курсе — всё будет понятно, даже если вы только начинаете!";
-        // Можно делать и другие варианты
 
         return (
             <div className="w-full flex flex-col items-center justify-center py-12">
@@ -87,7 +86,7 @@ const DemoExam = () => {
                     {promoText}
                 </div>
                 <a
-                    href="/pricing" // поменяй на нужную страницу тарифов/регистрации
+                    href="#pricing"
                     className="bg-[#1769E0] text-white px-8 py-3 rounded-xl font-semibold text-lg hover:bg-blue-700 transition mb-2"
                 >
                     Смотреть тарифы
@@ -105,7 +104,7 @@ const DemoExam = () => {
     const q = questions[current];
 
     return (
-        <div className="w-full flex py-12 px-4 md:px-16 mb-8 flex-col md:flex-row items-start">
+        <div id="demo" className="w-full flex py-12 px-4 md:px-16 mb-8 flex-col md:flex-row items-start">
             <div className="mr-0 md:mr-16 min-w-max flex flex-col items-start w-full md:w-auto">
                 <div className="text-gray-700 font-semibold mb-8">
                     Вопрос {current + 1} из {questions.length}

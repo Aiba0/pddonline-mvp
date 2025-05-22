@@ -8,6 +8,8 @@ import priceImage from "../../assets/price.png";
 import React from "react";
 import DemoExam from "../../components/Landing/DemoExam.jsx";
 import Tariffs from "../../components/Landing/Tariffs.jsx";
+import FAQBlock from "../../components/Landing/FAQBlock.jsx";
+import FooterBlock from "../../components/Landing/Footer.jsx";
 
 export default function Landing() {
     return (
@@ -52,6 +54,8 @@ export default function Landing() {
             {/*</div>*/}
             <DemoExam />
             <Tariffs />
+            <FAQBlock />
+            <FooterBlock />
         </div>
     )
 }
