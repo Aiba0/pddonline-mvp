@@ -1,4 +1,3 @@
-import Header from "../../components/Landing/Header.jsx";
 import Intro from "../../components/Landing/Intro.jsx";
 import AdvantageBlock from "../../components/Landing/Advantages.jsx";
 import examImage from "../../assets/desktop-mobile.png";
@@ -10,14 +9,15 @@ import DemoExam from "../../components/Landing/DemoExam.jsx";
 import Tariffs from "../../components/Landing/Tariffs.jsx";
 import FAQBlock from "../../components/Landing/FAQBlock.jsx";
 import FooterBlock from "../../components/Landing/Footer.jsx";
+import ForWhom from "../../components/Landing/ForWhom.jsx";
+import LearningStages from "../../components/Landing/LearningStages.jsx";
+import FeedbackForm from "../../components/Landing/FeedbackForm.jsx";
+import Grants from "../../components/Landing/Grants.jsx";
 
 export default function Landing() {
     return (
         <div>
             <Intro/>
-            <h1 className="text-4xl p-10 pt-16 text-center">Почему
-                <span className="text-2xl md:text-4xl font-bold mb-4 text-[#1769E0]"> PDD online?</span>
-            </h1>
             <AdvantageBlock
                 title="3D Видеокурсы по ПДД"
                 subtitle="Учиться — легко и интересно"
@@ -52,10 +52,14 @@ export default function Landing() {
             {/*        Зарегистрироваться*/}
             {/*    </a>*/}
             {/*</div>*/}
-            <DemoExam />
-            <Tariffs />
-            <FAQBlock />
-            <FooterBlock />
+            <DemoExam/>
+            <ForWhom/>
+            <LearningStages/>
+            <Grants/>
+            <Tariffs/>
+            <FAQBlock/>
+            <FeedbackForm/>
+            <FooterBlock/>
         </div>
     )
 }
