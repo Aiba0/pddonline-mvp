@@ -1,11 +1,11 @@
 import { useState, useEffect, useRef } from "react";
-import { askInstructor } from "../api/chatApi";
+import { askInstructor } from "../../api/chatApi.js";
 import ReactMarkdown from "react-markdown";
 import { motion, AnimatePresence } from "framer-motion";
 
 
-import avatar_ai from "../assets/avatar_ai.png"
-import avatar_user from "../assets/avatar-user.svg"
+import avatar_ai from "../../assets/avatar_ai.png"
+import avatar_user from "../../assets/avatar-user.svg"
 
 export default function ChatBot() {
     const [input, setInput] = useState("");

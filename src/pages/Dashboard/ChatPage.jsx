@@ -1,4 +1,4 @@
-import ChatBot from "../components/ChatBot";
+import ChatBot from "../../components/Dashboard/ChatBot.jsx";
 
 export default function ChatPage() {
     return (

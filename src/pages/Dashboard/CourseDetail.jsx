@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useState } from "react";
-import VideoModal from "../components/VideoModal";
+import VideoModal from "../../components/Dashboard/VideoModal.jsx";
 
 export default function CourseDetail() {
     const { id } = useParams(); // 'pdd' или 'autodrom'

@@ -1,6 +1,6 @@
-import DemoBanner from "../components/DemoBanner";
-import StepsProgress from "../components/StepsProgress";
-import ModulesList from "../components/ModulesList";
+import DemoBanner from "../../components/Dashboard/DemoBanner.jsx";
+import StepsProgress from "../../components/Dashboard/StepsProgress.jsx";
+import ModulesList from "../../components/Dashboard/ModulesList.jsx";
 
 export default function HomePage() {
     return (

@@ -1,29 +1,35 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ChatPage from "./pages/ChatPage";
+import ChatPage from "./pages/Dashboard/ChatPage.jsx";
 import MainLayout from "./layout/MainLayout";
-import HomePage from "./pages/HomePage.jsx";
-import CourseList from "./pages/CourseList.jsx";
-import CourseDetail from "./pages/CourseDetail.jsx";
-import Exam from "./pages/Exam.jsx";
-import ExamSession from "./pages/ExamSession.jsx";
-import DrivingBooking from "./pages/DrivingBooking.jsx";
+import HomePage from "./pages/Dashboard/HomePage.jsx";
+import CourseList from "./pages/Dashboard/CourseList.jsx";
+import CourseDetail from "./pages/Dashboard/CourseDetail.jsx";
+import Exam from "./pages/Dashboard/Exam.jsx";
+import ExamSession from "./pages/Dashboard/ExamSession.jsx";
+import DrivingBooking from "./pages/Dashboard/DrivingBooking.jsx";
+import Landing from "./pages/Landing/Landing.jsx";
+import {isAuthenticated} from "./utils/Auth.js";
+
+const isAuth = isAuthenticated()
 
 function App() {
     return (
-        <Router>
+        isAuth
+        ?
+        (<Router>
             <Routes>
                 <Route element={<MainLayout />}>
-                    <Route path="/main" element={<HomePage />} />
+                    <Route path="/" element={<HomePage />} />
                     <Route path="/chat" element={<ChatPage />} />
                     <Route path="/exam" element={<Exam />} />
                     <Route path="/courses" element={<CourseList />} />
                     <Route path="/exam-session" element={<ExamSession />} />
                     <Route path="/driving-booking" element={<DrivingBooking />} />
                     <Route path="/courses/:id" element={<CourseDetail />} />
-                    {/* Добавляй другие страницы сюда */}
                 </Route>
             </Routes>
-        </Router>
+        </Router>)
+        : <Landing />
     );
 }
 

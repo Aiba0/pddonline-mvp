@@ -1,11 +1,11 @@
 import { FiUser } from "react-icons/fi";
 import classNames from "classnames";
 import { NavLink } from "react-router-dom";
-import logo from "../assets/logo.png";
+import logo from "../../assets/logo.png";
 
 export default function Sidebar() {
     const menu = [
-        { key: "dashboard", label: "Главная", path: "/main" },
+        { key: "dashboard", label: "Главная", path: "/" },
         { key: "courses", label: "Мое обучение", path: "/courses" },
         { key: "chat", label: "ИИ-чат", path: "/chat" },
         { key: "tests", label: "Тестирование", path: "/exam" },

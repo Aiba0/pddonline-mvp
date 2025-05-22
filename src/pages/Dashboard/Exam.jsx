@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import 'react-circular-progressbar/dist/styles.css';
 import { FaFlag, FaGraduationCap, FaBolt, FaStar, FaRandom } from "react-icons/fa";
-import {ProgressRing} from "../components/ProgressRing.jsx";
+import {ProgressRing} from "../../components/Dashboard/ProgressRing.jsx";
 
 export default function Exam() {
     return (

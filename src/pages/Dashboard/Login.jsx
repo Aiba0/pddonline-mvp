@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { RecaptchaVerifier, signInWithPhoneNumber } from "firebase/auth";
-import { auth } from "../firebase";
+import { auth } from "../../firebase.js";
 
 export default function Login() {
     const [phone, setPhone] = useState("");

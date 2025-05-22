@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import questionsData from "../../db/questions-min.json";
+import questionsData from "../../../db/questions-min.json";
 import {Link} from "react-router-dom";
 
 export default function ExamSession() {
