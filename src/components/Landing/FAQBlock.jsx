@@ -82,7 +82,7 @@ export default function FAQBlock() {
     return (
         <section
             id="faq"
-            className="w-full py-20 bg-gradient-to-b from-blue-50 to-white flex justify-center"
+            className="w-full py-20 bg-blue-100 to-white flex justify-center"
         >
             <div className="max-w-4xl w-full px-4">
                 <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">

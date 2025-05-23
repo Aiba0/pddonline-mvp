@@ -30,7 +30,7 @@ export default function Footer() {
                         <a href="mailto:support@pdd2025.kz" target="_blank" rel="noopener noreferrer" className="text-blue-100 hover:text-yellow-300">
                             <Mail className="w-6 h-6" />
                         </a>
-                        <a href="https://instagram.com/вашаккаунт" target="_blank" rel="noopener noreferrer" className="text-blue-100 hover:text-yellow-300">
+                        <a href="https://www.instagram.com/pddonline.kz/" target="_blank" rel="noopener noreferrer" className="text-blue-100 hover:text-yellow-300">
                             <Instagram className="w-6 h-6" />
                         </a>
                         <a href="https://youtube.com/вашканал" target="_blank" rel="noopener noreferrer" className="text-blue-100 hover:text-yellow-300">

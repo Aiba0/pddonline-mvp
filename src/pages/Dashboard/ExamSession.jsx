@@ -140,6 +140,7 @@ export default function ExamSession() {
                     </button>
                     <Link to="/exam">
                         <button
+                            onClick={resetAll}
                             className="w-[200px] h-[50px] border border-[#007AFF] text-[#007AFF] transition text-sm rounded-md flex items-center justify-center">
                             Перейти на главную страницу
                         </button>

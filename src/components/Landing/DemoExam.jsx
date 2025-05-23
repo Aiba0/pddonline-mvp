@@ -53,7 +53,7 @@ const DemoExam = () => {
 
     if (!started) {
         return (
-            <div id="demo" className="w-full flex flex-col items-center justify-center py-12 bg-blue-50 rounded-2xl shadow-md mb-8">
+            <div id="demo" className="w-full flex flex-col items-center justify-center py-12 bg-blue-100 rounded-2xl mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-[#1769E0] mb-4 text-center">
                     Пройдите пробный онлайн тест по ПДД
                 </h2>

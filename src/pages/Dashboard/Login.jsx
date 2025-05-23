@@ -9,44 +9,44 @@ export default function Login() {
     const recaptchaRef = useRef(null);
 
     useEffect(() => {
-        auth.settings.appVerificationDisabledForTesting = true;
-
-        if (!window.recaptchaVerifier && recaptchaRef.current) {
-            const verifier = new RecaptchaVerifier(
-                recaptchaRef.current,
-                {
-                    size: "invisible",
-                    callback: (response) => {
-                        console.log("reCAPTCHA прошла:", response);
-                    },
-                },
-                auth
-            );
-
-            verifier.render().then((widgetId) => {
-                window.recaptchaWidgetId = widgetId;
-                window.recaptchaVerifier = verifier;
-            });
-        }
+    //     auth.settings.appVerificationDisabledForTesting = true;
+    //
+    //     if (!window.recaptchaVerifier && recaptchaRef.current) {
+    //         const verifier = new RecaptchaVerifier(
+    //             recaptchaRef.current,
+    //             {
+    //                 size: "invisible",
+    //                 callback: (response) => {
+    //                     console.log("reCAPTCHA прошла:", response);
+    //                 },
+    //             },
+    //             auth
+    //         );
+    //
+    //         verifier.render().then((widgetId) => {
+    //             window.recaptchaWidgetId = widgetId;
+    //             window.recaptchaVerifier = verifier;
+    //         });
+    //     }
     }, []);
 
     const handleSendCode = async () => {
-        try {
-            const result = await signInWithPhoneNumber(auth, phone, window.recaptchaVerifier);
-            setConfirmation(result);
-            alert("Код отправлен!");
-        } catch (err) {
-            console.error("Ошибка при отправке:", err);
-        }
-    };
-
-    const handleVerifyCode = async () => {
-        try {
-            await confirmation.confirm(code);
-            alert("Вы вошли!");
-        } catch (err) {
-            console.error("Неверный код:", err);
-        }
+    //     try {
+    //         const result = await signInWithPhoneNumber(auth, phone, window.recaptchaVerifier);
+    //         setConfirmation(result);
+    //         alert("Код отправлен!");
+    //     } catch (err) {
+    //         console.error("Ошибка при отправке:", err);
+    //     }
+    // };
+    //
+    // const handleVerifyCode = async () => {
+    //     try {
+    //         await confirmation.confirm(code);
+    //         alert("Вы вошли!");
+    //     } catch (err) {
+    //         console.error("Неверный код:", err);
+    //     }
     };
 
     return (

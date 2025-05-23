@@ -1,5 +1,6 @@
 import React from "react";
 import carImg from "../../assets/hero-man.png";
+import {Link} from "react-router-dom";
 
 const Intro = () => (
     <section className="w-full flex justify-center items-center py-5 md:py-4 bg-gray-50">
@@ -17,12 +18,12 @@ const Intro = () => (
                             <a href="#footer" className="text-white/90 hover:text-yellow-300 transition-colors text-base font-medium">Контакты</a>
                         </nav>
                     </div>
-                    <a
-                        href="/auth"
+                    <Link
+                        to="/login"
                         className="px-6 py-2 bg-white text-[#1769E0] rounded-xl font-semibold text-base shadow-none hover:bg-yellow-300 hover:text-gray-800 transition-colors duration-200"
                     >
                         Войти
-                    </a>
+                    </Link>
                 </div>
 
                 {/* Основной контент */}
