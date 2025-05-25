@@ -95,14 +95,15 @@ export default function CourseDetail() {
                             {/* Заголовок модуля */}
                             <button
                                 onClick={() => setOpenModule(isOpen ? null : index)}
-                                className="w-full flex items-center justify-between px-5 py-4 text-left hover:bg-gray-50 transition"
+                                className="w-full flex items-center justify-between px-5 py-2 text-left hover:bg-gray-50 transition"
                             >
-                                <div className="text-lg font-semibold text-[#333]">
-                                    {mod.title}
+                                <div className="">
+                                    <div className="text-lg font-semibold mb-4 text-[#333]">
+                                        {mod.title}
+                                    </div>
+                                    <span className="text-gray-500 text-[14px]">Прогресс: {progress}%</span>
                                 </div>
-
                                 <div className="flex items-center gap-4 text-sm text-gray-500">
-                                    <span>Прогресс: {progress}%</span>
                                     <span>{isOpen ? "▲" : "▼"}</span>
                                 </div>
                             </button>

@@ -55,7 +55,7 @@ const DemoExam = () => {
         return (
             <div id="demo" className="w-full flex flex-col items-center justify-center py-12 bg-blue-100 rounded-2xl mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-[#1769E0] mb-4 text-center">
-                    Пройдите пробный онлайн тест по ПДД
+                    Попробуйте пробный онлайн тест по ПДД
                 </h2>
                 <p className="text-lg text-gray-700 mb-6 text-center max-w-xl">
                     Проверьте свои знания на 5 реальных вопросах с видео — бесплатно и без регистрации.

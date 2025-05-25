@@ -19,7 +19,7 @@ const Intro = () => (
                         </nav>
                     </div>
                     <Link
-                        to="/login"
+                        to="/auth/login"
                         className="px-6 py-2 bg-white text-[#1769E0] rounded-xl font-semibold text-base shadow-none hover:bg-yellow-300 hover:text-gray-800 transition-colors duration-200"
                     >
                         Войти
@@ -42,9 +42,9 @@ const Intro = () => (
                             нервов.
                         </p>
                     </div>
-                    <a href="/auth" className="w-80 inline-block bg-yellow-400 text-gray-800 px-8 py-4 text-center rounded-xl text-lg font-semibold shadow hover:bg-yellow-300 transition-transform duration-200 hover:scale-105 focus:scale-95 active:scale-95">
+                    <Link to="/auth/register" className="w-80 inline-block bg-yellow-400 text-gray-800 px-8 py-4 text-center rounded-xl text-lg font-semibold shadow hover:bg-yellow-300 transition-transform duration-200 hover:scale-105 focus:scale-95 active:scale-95">
                         Зарегистрироваться
-                    </a>
+                    </Link>
                 </div>
 
                 <div className="flex-1 flex justify-center mt-10 md:mt-0 z-10 w-full">

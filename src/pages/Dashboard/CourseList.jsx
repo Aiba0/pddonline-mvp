@@ -20,13 +20,13 @@ export default function CourseList() {
 
     return (
         <div className="p-6">
-            <h2 className="text-xl font-bold mb-4">Ваши обучающие курсы</h2>
+            <h2 className="text-xl font-bold my-6">Курсы</h2>
 
             <div className="grid gap-4 grid-cols-1 sm:grid-cols-2">
                 {courses.map((course) => (
                     <div
                         key={course.id}
-                        onClick={() => navigate(`/courses/${course.id}`)}
+                        onClick={() => navigate(`${course.id}`)}
                         className="cursor-pointer bg-white rounded-xl shadow p-5 transition hover:shadow-md hover:scale-[1.01]"
                     >
                         <h3 className="text-lg font-semibold mb-1">{course.title}</h3>

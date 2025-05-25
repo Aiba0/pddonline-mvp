@@ -1,7 +1,8 @@
-import React, { useState } from "react";
+import React, {useCallback, useState} from "react";
 import logo from "../../assets/logo.png";
 import InputApp from "../../components/InputApp.jsx";
 import ButtonApp from "../../components/ButtonApp.jsx";
+import {Link, useNavigate} from "react-router-dom";
 
 const RegisterPage = () => {
     const [method, setMethod] = useState("whatsapp");
@@ -10,18 +11,20 @@ const RegisterPage = () => {
     const [password, setPassword] = useState("");
     const [valid, setValid] = useState({ phone: false, password: false });
 
-    const onRegister = (e, user) => {
+    const navigate = useNavigate();
+
+    const onRegister = useCallback((e, user) => {
         e.preventDefault();
-        console.log('user: ', user);
-        console.log('valid: ', valid);
-    }
+        localStorage.setItem('pddonline', JSON.stringify(user));
+        navigate("/dashboard", { replace: true });
+    }, [navigate]);
 
     return (
         <div className="min-h-screen bg-[#f7f8fa] flex flex-col px-6">
-            <div className="flex justify-center items-center mt-6 mb-2">
+            <Link to="/" className="flex justify-center items-center mt-6 mb-2">
                 <img src={logo} alt="PDD online" className="w-20 h-20 mb-4 mr-4" />
                 <h1 className="text-4xl font-extrabold text-[#1769E0]">PDD online</h1>
-            </div>
+            </Link>
 
             <form className="max-w-md w-full mx-auto mt-2 bg-transparent flex flex-col items-stretch">
                 {/* Табы */}
@@ -113,9 +116,9 @@ const RegisterPage = () => {
                 {/* Ссылка на вход */}
                 <div className="text-center text-gray-700 text-sm my-4">
                     Уже есть аккаунт?{" "}
-                    <a href="#" className="text-[#1769E0] hover:underline font-medium">
+                    <Link to="/auth/login" className="text-[#1769E0] hover:underline font-medium">
                         Войти
-                    </a>
+                    </Link>
                 </div>
             </form>
         </div>

@@ -1,3 +1,5 @@
+import {Link} from "react-router-dom";
+
 const tariffs = [
     {
         name: "Базовый",
@@ -70,8 +72,8 @@ export default function Tariffs() {
                                     </li>
                                 ))}
                             </ul>
-                            <a
-                                href={tariff.button.href}
+                            <Link
+                                to="/dashboard"
                                 className={`w-full mt-auto py-3 rounded-xl font-semibold text-lg transition text-center ${
                                     tariff.popular
                                         ? "bg-[#1769E0] text-white hover:bg-blue-800"
@@ -79,7 +81,7 @@ export default function Tariffs() {
                                 }`}
                             >
                                 {tariff.button.text}
-                            </a>
+                            </Link>
                         </div>
                     ))}
                 </div>

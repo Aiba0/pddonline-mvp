@@ -3,20 +3,18 @@ import StepsProgress from "../../components/Dashboard/StepsProgress.jsx";
 import ModulesList from "../../components/Dashboard/ModulesList.jsx";
 
 export default function HomePage() {
+    const user = localStorage.getItem("pddonline")
+    const userName = JSON.parse(user).name
+
+
     return (
         <div className="flex min-h-screen bg-gray-100">
-            {/* Основной контент */}
-            <main className="flex-1 p-6">
-                {/* Приветствие */}
-                <h1 className="text-lg font-bold mb-3">Добро пожаловать, Уйсинбаев Айбек</h1>
-
-                {/* Демо баннер */}
+            <main className="flex-1 w-full max-w-6xl py-10 px-6">
+                <h1 className="text-3xl font-bold mb-3">
+                    Добро пожаловать{userName ? ', ' + JSON.parse(user).name : ''}
+                </h1>
                 <DemoBanner />
-
-                {/* Шаги обучения */}
                 <StepsProgress />
-
-                {/* Список модулей */}
                 <ModulesList />
             </main>
         </div>
